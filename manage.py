@@ -6,7 +6,7 @@ import flask
 from factories import create_app, initialize_api, initialize_blueprints
 from flask_migrate import MigrateCommand
 
-app = create_app('locales', 'config.TestConfig')
+app = create_app('locales', 'config.LiveConfig')
 
 # Initializing script manager
 manager = Manager(app)
