@@ -13,6 +13,7 @@ manager = Manager(app)
 
 logger = app.logger
 
+
 @manager.command
 def runserver():
     """ Start the server"""
@@ -27,6 +28,7 @@ def runserver():
 
     port = int(os.environ.get('PORT', 5500))
     app.run(host='0.0.0.0', port=port)
+
 
 @manager.command
 def install_assets(name):
@@ -45,6 +47,7 @@ def install_assets(name):
         logger.info(src)
 
         loader.load_data(models, db, src)
+
 
 @manager.command
 def alembic(action, message=""):
@@ -69,7 +72,6 @@ def alembic(action, message=""):
         _alembic.revision("Generating migration")
         _alembic.upgrade()
         app.logger.info("Upgrade complete")
-
 
 
 if __name__ == "__main__":
