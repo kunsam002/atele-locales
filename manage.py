@@ -54,7 +54,7 @@ def alembic(action, message=""):
     """ alembic integration using Flask-Alembic. Should provide us with more control over migrations """
 
     from locales import alembic as _alembic
-    from locales.models import *
+    # from locales.models import *
 
     if action == "migrate":
         app.logger.info("Generating migration")
