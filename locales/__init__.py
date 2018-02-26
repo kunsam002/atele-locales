@@ -30,9 +30,9 @@ moment = app.moment
 
 @event.listens_for(Pool, "checkout")
 def ping_connection(dbapi_connection, connection_record, connection_proxy):
-    print("---------- In Ping Connection --------------")
+    # print("---------- In Ping Connection --------------")
     cursor = dbapi_connection.cursor()
-    print("---------- Connection Cursor --------------", cursor)
+    # print("---------- Connection Cursor --------------", cursor)
     try:
         cursor.execute("SELECT 1")
     except:
