@@ -5,6 +5,7 @@ Flask-Moment==0.5.1
 Flask-RESTful==0.3.6
 Flask-Script==2.0.6
 Flask-SQLAlchemy==2.3.2
+Flask-WTF==0.12
 itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
@@ -12,4 +13,7 @@ pytz==2018.3
 six==1.11.0
 SQLAlchemy==1.2.4
 Werkzeug==0.14.1
+WTForms==2.0.2
+WTForms-JSON==0.2.10
+wtforms-recaptcha==0.3.2
 git+https://github.com/stikks/Utilities.git
