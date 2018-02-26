@@ -2,9 +2,10 @@ from _socket import gethostbyname, gethostname
 import json
 import sys
 import os
+import re
 from datetime import datetime
 from pprint import pprint
-from utilities.utils import slugify
+# from utilities.utils import slugify
 from sqlalchemy import func, event
 from sqlalchemy import inspect, UniqueConstraint, desc
 from sqlalchemy.ext.declarative import declared_attr
@@ -14,7 +15,29 @@ from sqlalchemy.orm.attributes import InstrumentedAttribute
 from sqlalchemy.orm.collections import InstrumentedList
 import inspect as pyinspect
 from locales import db, logger, app
+from unicodedata import normalize
 
+_slugify_punct_re = re.compile(r'[\t !"#$%&\'()*\-/<=>?@\[\\\]^_`{|},.]+')
+
+
+def slugify(text, delim=u'-'):
+    """
+    Generates an ASCII-only slug.
+
+    :param text: The string/text to be slugified
+    :param: delim: the separator between words.
+
+    :returns: slugified text
+    :rtype: unicode
+    """
+
+    result = []
+    for word in _slugify_punct_re.split(text.lower()):
+        # ensured the unicode(word) because str broke the code
+        word = normalize('NFKD', unicode(word)).encode('ascii', 'ignore')
+        if word:
+            result.append(word)
+    return unicode(delim.join(result))
 
 def get_model_from_table_name(tablename):
     """ return the Model class for a given __tablename__ """
