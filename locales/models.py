@@ -26,8 +26,7 @@ def get_model_from_table_name(tablename):
         try:
             if _m.__tablename__ == tablename:
                 return _m
-        except Exception, e:
-            logger.info(e)
+        except:
             raise
 
     return None
