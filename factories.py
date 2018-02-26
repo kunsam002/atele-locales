@@ -11,7 +11,7 @@ from flask_sqlalchemy import SQLAlchemy
 import os
 from flask_restful import Api
 import wtforms_json
-from flask_migrate import Migrate
+# from flask_migrate import Migrate
 from flask_cache import Cache
 from flask_moment import Moment
 from flask_alembic import Alembic
@@ -49,7 +49,7 @@ def create_app(app_name, config_obj, with_api=True):
     db = SQLAlchemy(app)
     app.db = db
 
-    migrate = Migrate(app, db)
+    # migrate = Migrate(app, db)
 
     app.cache = Cache(app)
 
