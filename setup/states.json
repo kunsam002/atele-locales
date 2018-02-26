@@ -1,0 +1,2117 @@
+{
+  "model": "State",
+  "objects": [
+    {
+      "code": "KDA",
+      "name": "Kaduna",
+      "country_code": "NG",
+      "slug": "kaduna"
+    },
+    {
+      "code": "KAN",
+      "name": "Kano",
+      "country_code": "NG",
+      "slug": "kano"
+    },
+    {
+      "code": "BNE",
+      "name": "Benue",
+      "country_code": "NG",
+      "slug": "benue"
+    },
+    {
+      "code": "GMB",
+      "name": "Gombe",
+      "country_code": "NG",
+      "slug": "gombe"
+    },
+    {
+      "code": "EBN",
+      "name": "Ebonyi",
+      "country_code": "NG",
+      "slug": "ebonyi"
+    },
+    {
+      "code": "DEL",
+      "name": "Delta",
+      "country_code": "NG",
+      "slug": "delta"
+    },
+    {
+      "code": "YBE",
+      "name": "Yobe",
+      "country_code": "NG",
+      "slug": "yobe"
+    },
+    {
+      "code": "ZFR",
+      "name": "Zamfara",
+      "country_code": "NG",
+      "slug": "zamfara"
+    },
+    {
+      "code": "EKI",
+      "name": "Ekiti",
+      "country_code": "NG",
+      "slug": "ekiti"
+    },
+    {
+      "code": "EDO",
+      "name": "Edo",
+      "country_code": "NG",
+      "slug": "edo"
+    },
+    {
+      "code": "CRI",
+      "name": "Cross River",
+      "country_code": "NG",
+      "slug": "cross-river"
+    },
+    {
+      "code": "JIG",
+      "name": "Jigawa",
+      "country_code": "NG",
+      "slug": "jigawa"
+    },
+    {
+      "code": "BOR",
+      "name": "Borno",
+      "country_code": "NG",
+      "slug": "borno"
+    },
+    {
+      "code": "RVS",
+      "name": "Rivers",
+      "country_code": "NG",
+      "slug": "rivers"
+    },
+    {
+      "code": "PLT",
+      "name": "Plateau",
+      "country_code": "NG",
+      "slug": "plateau"
+    },
+    {
+      "code": "SOK",
+      "name": "Sokoto",
+      "country_code": "NG",
+      "slug": "sokoto"
+    },
+    {
+      "code": "ENU",
+      "name": "Enugu",
+      "country_code": "NG",
+      "slug": "enugu"
+    },
+    {
+      "code": "ABV",
+      "name": "Abuja",
+      "country_code": "NG",
+      "slug": "abuja"
+    },
+    {
+      "code": "IMO",
+      "name": "Imo",
+      "country_code": "NG",
+      "slug": "imo"
+    },
+    {
+      "code": "LOS",
+      "name": "Lagos",
+      "country_code": "NG",
+      "slug": "lagos"
+    },
+    {
+      "code": "KGI",
+      "name": "Kogi",
+      "country_code": "NG",
+      "slug": "kogi"
+    },
+    {
+      "code": "KEB",
+      "name": "Kebbi",
+      "country_code": "NG",
+      "slug": "kebbi"
+    },
+    {
+      "code": "KAT",
+      "name": "Katsina",
+      "country_code": "NG",
+      "slug": "katsina"
+    },
+    {
+      "code": "ABR",
+      "name": "Anambra",
+      "country_code": "NG",
+      "slug": "anambra"
+    },
+    {
+      "code": "KWA",
+      "name": "Kwara",
+      "country_code": "NG",
+      "slug": "kwara"
+    },
+    {
+      "code": "ABI",
+      "name": "Abia",
+      "country_code": "NG",
+      "slug": "abia"
+    },
+    {
+      "code": "ADA",
+      "name": "Adamawa",
+      "country_code": "NG",
+      "slug": "adamawa"
+    },
+    {
+      "code": "BAY",
+      "name": "Bayelsa",
+      "country_code": "NG",
+      "slug": "bayelsa"
+    },
+    {
+      "code": "BCH",
+      "name": "Bauchi",
+      "country_code": "NG",
+      "slug": "bauchi"
+    },
+    {
+      "code": "AKI",
+      "name": "Akwa Ibom",
+      "country_code": "NG",
+      "slug": "akwa-ibom"
+    },
+    {
+      "code": "TAR",
+      "name": "Taraba",
+      "country_code": "NG",
+      "slug": "taraba"
+    },
+    {
+      "code": "OSU",
+      "name": "Osun",
+      "country_code": "NG",
+      "slug": "osun"
+    },
+    {
+      "code": "OYO",
+      "name": "Oyo",
+      "country_code": "NG",
+      "slug": "oyo"
+    },
+    {
+      "code": "OGN",
+      "name": "Ogun",
+      "country_code": "NG",
+      "slug": "ogun"
+    },
+    {
+      "code": "NAS",
+      "name": "Nasarawa",
+      "country_code": "NG",
+      "slug": "nasarawa"
+    },
+    {
+      "code": "OND",
+      "name": "Ondo",
+      "country_code": "NG",
+      "slug": "ondo"
+    },
+    {
+      "code": "NIG",
+      "name": "Niger",
+      "country_code": "NG",
+      "slug": "niger"
+    },
+    {
+      "code": "GH_0",
+      "name": "Greater Accra",
+      "country_code": "GH",
+      "slug": "greater-accra"
+    },
+    {
+      "code": "GH_1",
+      "name": "Ashanti",
+      "country_code": "GH",
+      "slug": "ashanti"
+    },
+    {
+      "code": "GH_2",
+      "name": "Northern",
+      "country_code": "GH",
+      "slug": "northern"
+    },
+    {
+      "code": "GH_3",
+      "name": "Western",
+      "country_code": "GH",
+      "slug": "western"
+    },
+    {
+      "code": "GH_4",
+      "name": "Brong-Ahafo",
+      "country_code": "GH",
+      "slug": "brong-ahafo"
+    },
+    {
+      "code": "GH_5",
+      "name": "Central",
+      "country_code": "GH",
+      "slug": "central"
+    },
+    {
+      "code": "GH_6",
+      "name": "Eastern",
+      "country_code": "GH",
+      "slug": "eastern"
+    },
+    {
+      "code": "GH_7",
+      "name": "Upper West",
+      "country_code": "GH",
+      "slug": "upper-west"
+    },
+    {
+      "code": "GH_8",
+      "name": "Upper East",
+      "country_code": "GH",
+      "slug": "upper-east"
+    },
+    {
+      "code": "GH_9",
+      "name": "Volta",
+      "country_code": "GH",
+      "slug": "volta"
+    },
+    {
+      "code": "KE_0",
+      "name": "Coast",
+      "country_code": "KE",
+      "slug": "coast"
+    },
+    {
+      "code": "KE_1",
+      "name": "North Eastern",
+      "country_code": "KE",
+      "slug": "north-eastern"
+    },
+    {
+      "code": "KE_2",
+      "name": "Eastern",
+      "country_code": "KE",
+      "slug": "eastern"
+    },
+    {
+      "code": "KE_3",
+      "name": "Central",
+      "country_code": "KE",
+      "slug": "central"
+    },
+    {
+      "code": "KE_4",
+      "name": "Rift Valley",
+      "country_code": "KE",
+      "slug": "rift-valley"
+    },
+    {
+      "code": "KE_5",
+      "name": "Western",
+      "country_code": "KE",
+      "slug": "western"
+    },
+    {
+      "code": "KE_6",
+      "name": "Nyanza",
+      "country_code": "KE",
+      "slug": "nyanza"
+    },
+    {
+      "code": "KE_7",
+      "name": "Nairobi",
+      "country_code": "KE",
+      "slug": "nairobi"
+    },
+    {
+      "code": "AB",
+      "name": "Alberta",
+      "country_code": "CA",
+      "slug": "alberta"
+    },
+    {
+      "code": "BC",
+      "name": "British Columbia",
+      "country_code": "CA",
+      "slug": "british-columbia"
+    },
+    {
+      "code": "MB",
+      "name": "Manitoba",
+      "country_code": "CA",
+      "slug": "manitoba"
+    },
+    {
+      "code": "NB",
+      "name": "New Brunswick",
+      "country_code": "CA",
+      "slug": "new-brunswick"
+    },
+    {
+      "code": "NL",
+      "name": "Newfoundland & Labrador",
+      "country_code": "CA",
+      "slug": "newfoundland-labrador"
+    },
+    {
+      "code": "NT",
+      "name": "Northwest Territories",
+      "country_code": "CA",
+      "slug": "northwest-territories"
+    },
+    {
+      "code": "NS",
+      "name": "Nova Scotia",
+      "country_code": "CA",
+      "slug": "nova-scotia"
+    },
+    {
+      "code": "NU",
+      "name": "Nunavut",
+      "country_code": "CA",
+      "slug": "nunavut"
+    },
+    {
+      "code": "ON",
+      "name": "Ontario",
+      "country_code": "CA",
+      "slug": "ontario"
+    },
+    {
+      "code": "AL",
+      "name": "Alabama",
+      "country_code": "US",
+      "slug": "alabama"
+    },
+    {
+      "code": "AK",
+      "name": "Alaska",
+      "country_code": "US",
+      "slug": "alaska"
+    },
+    {
+      "code": "AR",
+      "name": "Arkansas",
+      "country_code": "US",
+      "slug": "arkansas"
+    },
+    {
+      "code": "CA",
+      "name": "California",
+      "country_code": "US",
+      "slug": "california"
+    },
+    {
+      "code": "CO",
+      "name": "Colorado",
+      "country_code": "US",
+      "slug": "colorado"
+    },
+    {
+      "code": "CT",
+      "name": "Connecticut",
+      "country_code": "US",
+      "slug": "connecticut"
+    },
+    {
+      "code": "DE",
+      "name": "Delaware",
+      "country_code": "US",
+      "slug": "delaware"
+    },
+    {
+      "code": "FL",
+      "name": "Florida",
+      "country_code": "US",
+      "slug": "florida"
+    },
+    {
+      "code": "GA",
+      "name": "Georgia",
+      "country_code": "US",
+      "slug": "georgia"
+    },
+    {
+      "code": "HI",
+      "name": "Hawaii",
+      "country_code": "US",
+      "slug": "hawaii"
+    },
+    {
+      "code": "ID",
+      "name": "Idaho",
+      "country_code": "US",
+      "slug": "idaho"
+    },
+    {
+      "code": "IL",
+      "name": "Illinois",
+      "country_code": "US",
+      "slug": "illinois"
+    },
+    {
+      "code": "IN",
+      "name": "Indiana",
+      "country_code": "US",
+      "slug": "indiana"
+    },
+    {
+      "code": "IA",
+      "name": "Iowa",
+      "country_code": "US",
+      "slug": "iowa"
+    },
+    {
+      "code": "KS",
+      "name": "Kansas",
+      "country_code": "US",
+      "slug": "kansas"
+    },
+    {
+      "code": "KY",
+      "name": "Kentucky",
+      "country_code": "US",
+      "slug": "kentucky"
+    },
+    {
+      "code": "ME",
+      "name": "Maine",
+      "country_code": "US",
+      "slug": "maine"
+    },
+    {
+      "code": "MD",
+      "name": "Maryland",
+      "country_code": "US",
+      "slug": "maryland"
+    },
+    {
+      "code": "MA",
+      "name": "Massachusetts",
+      "country_code": "US",
+      "slug": "massachusetts"
+    },
+    {
+      "code": "MI",
+      "name": "Michigan",
+      "country_code": "US",
+      "slug": "michigan"
+    },
+    {
+      "code": "MN",
+      "name": "Minnesota",
+      "country_code": "US",
+      "slug": "minnesota"
+    },
+    {
+      "code": "MS",
+      "name": "Mississippi",
+      "country_code": "US",
+      "slug": "mississippi"
+    },
+    {
+      "code": "MO",
+      "name": "Missouri",
+      "country_code": "US",
+      "slug": "missouri"
+    },
+    {
+      "code": "MT",
+      "name": "Montana",
+      "country_code": "US",
+      "slug": "montana"
+    },
+    {
+      "code": "NE",
+      "name": "Nebraska",
+      "country_code": "US",
+      "slug": "nebraska"
+    },
+    {
+      "code": "NV",
+      "name": "Nevada",
+      "country_code": "US",
+      "slug": "nevada"
+    },
+    {
+      "code": "NH",
+      "name": "New Hampshire",
+      "country_code": "US",
+      "slug": "new-hampshire"
+    },
+    {
+      "code": "NJ",
+      "name": "New Jersey",
+      "country_code": "US",
+      "slug": "new-jersey"
+    },
+    {
+      "code": "NM",
+      "name": "New Mexico",
+      "country_code": "US",
+      "slug": "new-mexico"
+    },
+    {
+      "code": "NY",
+      "name": "New York",
+      "country_code": "US",
+      "slug": "new-york"
+    },
+    {
+      "code": "NC",
+      "name": "North Carolina",
+      "country_code": "US",
+      "slug": "north-carolina"
+    },
+    {
+      "code": "ND",
+      "name": "North Dakota",
+      "country_code": "US",
+      "slug": "north-dakota"
+    },
+    {
+      "code": "OH",
+      "name": "Ohio",
+      "country_code": "US",
+      "slug": "ohio"
+    },
+    {
+      "code": "OK",
+      "name": "Oklahoma",
+      "country_code": "US",
+      "slug": "oklahoma"
+    },
+    {
+      "code": "OR",
+      "name": "Oregon",
+      "country_code": "US",
+      "slug": "oregon"
+    },
+    {
+      "code": "RI",
+      "name": "Rhode Island",
+      "country_code": "US",
+      "slug": "rhode-island"
+    },
+    {
+      "code": "SC",
+      "name": "South Carolina",
+      "country_code": "US",
+      "slug": "south-carolina"
+    },
+    {
+      "code": "SD",
+      "name": "South Dakota",
+      "country_code": "US",
+      "slug": "south-dakota"
+    },
+    {
+      "code": "TN",
+      "name": "Tennessee",
+      "country_code": "US",
+      "slug": "tennessee"
+    },
+    {
+      "code": "TX",
+      "name": "Texas",
+      "country_code": "US",
+      "slug": "texas"
+    },
+    {
+      "code": "UT",
+      "name": "Utah",
+      "country_code": "US",
+      "slug": "utah"
+    },
+    {
+      "code": "VT",
+      "name": "Vermont",
+      "country_code": "US",
+      "slug": "vermont"
+    },
+    {
+      "code": "VA",
+      "name": "Virginia",
+      "country_code": "US",
+      "slug": "virginia"
+    },
+    {
+      "code": "WA",
+      "name": "Washington",
+      "country_code": "US",
+      "slug": "washington"
+    },
+    {
+      "code": "WV",
+      "name": "West Virginia",
+      "country_code": "US",
+      "slug": "west-virginia"
+    },
+    {
+      "code": "WI",
+      "name": "Wisconsin",
+      "country_code": "US",
+      "slug": "wisconsin"
+    },
+    {
+      "code": "WY",
+      "name": "Wyoming",
+      "country_code": "US",
+      "slug": "wyoming"
+    },
+    {
+      "code": "PE",
+      "name": "Prince Edward Island",
+      "country_code": "CA",
+      "slug": "prince-edward-island"
+    },
+    {
+      "code": "QC",
+      "name": "Quebec",
+      "country_code": "CA",
+      "slug": "quebec"
+    },
+    {
+      "code": "SK",
+      "name": "Saskatchewan",
+      "country_code": "CA",
+      "slug": "saskatchewan"
+    },
+    {
+      "code": "YT",
+      "name": "Yukon",
+      "country_code": "CA",
+      "slug": "yukon"
+    },
+    {
+      "code": "GB_BKM",
+      "name": "Buckinghamshire",
+      "country_code": "GB",
+      "slug": "buckinghamshire"
+    },
+    {
+      "code": "GB_CAM",
+      "name": "Cambridgeshire",
+      "country_code": "GB",
+      "slug": "cambridgeshire"
+    },
+    {
+      "code": "GB_CMA",
+      "name": "Cumbria",
+      "country_code": "GB",
+      "slug": "cumbria"
+    },
+    {
+      "code": "GB_DBY",
+      "name": "Derbyshire",
+      "country_code": "GB",
+      "slug": "derbyshire"
+    },
+    {
+      "code": "GB_DEV",
+      "name": "Devon",
+      "country_code": "GB",
+      "slug": "devon"
+    },
+    {
+      "code": "GB_DOR",
+      "name": "Dorset",
+      "country_code": "GB",
+      "slug": "dorset"
+    },
+    {
+      "code": "GB_ESX",
+      "name": "East Sussex",
+      "country_code": "GB",
+      "slug": "east-sussex"
+    },
+    {
+      "code": "GB_ESS",
+      "name": "Essex",
+      "country_code": "GB",
+      "slug": "essex"
+    },
+    {
+      "code": "GB_GLS",
+      "name": "Gloucestershire",
+      "country_code": "GB",
+      "slug": "gloucestershire"
+    },
+    {
+      "code": "GB_HAM",
+      "name": "Hampshire",
+      "country_code": "GB",
+      "slug": "hampshire"
+    },
+    {
+      "code": "GB_HRT",
+      "name": "Hertfordshire",
+      "country_code": "GB",
+      "slug": "hertfordshire"
+    },
+    {
+      "code": "GB_KEN",
+      "name": "Kent",
+      "country_code": "GB",
+      "slug": "kent"
+    },
+    {
+      "code": "GB_LAN",
+      "name": "Lancashire",
+      "country_code": "GB",
+      "slug": "lancashire"
+    },
+    {
+      "code": "GB_LEC",
+      "name": "Leicestershire",
+      "country_code": "GB",
+      "slug": "leicestershire"
+    },
+    {
+      "code": "GB_LIN",
+      "name": "Lincolnshire",
+      "country_code": "GB",
+      "slug": "lincolnshire"
+    },
+    {
+      "code": "GB_NFK",
+      "name": "Norfolk",
+      "country_code": "GB",
+      "slug": "norfolk"
+    },
+    {
+      "code": "GB_NYK",
+      "name": "North Yorkshire",
+      "country_code": "GB",
+      "slug": "north-yorkshire"
+    },
+    {
+      "code": "GB_NTH",
+      "name": "Northamptonshire",
+      "country_code": "GB",
+      "slug": "northamptonshire"
+    },
+    {
+      "code": "GB_NTT",
+      "name": "Nottinghamshire",
+      "country_code": "GB",
+      "slug": "nottinghamshire"
+    },
+    {
+      "code": "GB_OXF",
+      "name": "Oxfordshire",
+      "country_code": "GB",
+      "slug": "oxfordshire"
+    },
+    {
+      "code": "GB_SOM",
+      "name": "Somerset",
+      "country_code": "GB",
+      "slug": "somerset"
+    },
+    {
+      "code": "GB_STS",
+      "name": "Staffordshire",
+      "country_code": "GB",
+      "slug": "staffordshire"
+    },
+    {
+      "code": "GB_SFK",
+      "name": "Suffolk",
+      "country_code": "GB",
+      "slug": "suffolk"
+    },
+    {
+      "code": "GB_SRY",
+      "name": "Surrey",
+      "country_code": "GB",
+      "slug": "surrey"
+    },
+    {
+      "code": "GB_WAR",
+      "name": "Warwickshire",
+      "country_code": "GB",
+      "slug": "warwickshire"
+    },
+    {
+      "code": "GB_WSX",
+      "name": "West Sussex",
+      "country_code": "GB",
+      "slug": "west-sussex"
+    },
+    {
+      "code": "GB_WOR",
+      "name": "Worcestershire",
+      "country_code": "GB",
+      "slug": "worcestershire"
+    },
+    {
+      "code": "GB_LND",
+      "name": "London",
+      "country_code": "GB",
+      "slug": "london"
+    },
+    {
+      "code": "GB_BDG",
+      "name": "Barking and Dagenham",
+      "country_code": "GB",
+      "slug": "barking-and-dagenham"
+    },
+    {
+      "code": "GB_BNE",
+      "name": "Barnet",
+      "country_code": "GB",
+      "slug": "barnet"
+    },
+    {
+      "code": "GB_BEX",
+      "name": "Bexley",
+      "country_code": "GB",
+      "slug": "bexley"
+    },
+    {
+      "code": "GB_BEN",
+      "name": "Brent",
+      "country_code": "GB",
+      "slug": "brent"
+    },
+    {
+      "code": "GB_BRY",
+      "name": "Bromley",
+      "country_code": "GB",
+      "slug": "bromley"
+    },
+    {
+      "code": "GB_CMD",
+      "name": "Camden",
+      "country_code": "GB",
+      "slug": "camden"
+    },
+    {
+      "code": "GB_CRY",
+      "name": "Croydon",
+      "country_code": "GB",
+      "slug": "croydon"
+    },
+    {
+      "code": "GB_EAL",
+      "name": "Ealing",
+      "country_code": "GB",
+      "slug": "ealing"
+    },
+    {
+      "code": "GB_ENF",
+      "name": "Enfield",
+      "country_code": "GB",
+      "slug": "enfield"
+    },
+    {
+      "code": "GB_GRE",
+      "name": "Greenwich",
+      "country_code": "GB",
+      "slug": "greenwich"
+    },
+    {
+      "code": "GB_HCK",
+      "name": "Hackney",
+      "country_code": "GB",
+      "slug": "hackney"
+    },
+    {
+      "code": "GB_HMF",
+      "name": "Hammersmith and Fulham",
+      "country_code": "GB",
+      "slug": "hammersmith-and-fulham"
+    },
+    {
+      "code": "GB_HRY",
+      "name": "Haringey",
+      "country_code": "GB",
+      "slug": "haringey"
+    },
+    {
+      "code": "GB_HRW",
+      "name": "Harrow",
+      "country_code": "GB",
+      "slug": "harrow"
+    },
+    {
+      "code": "GB_HAV",
+      "name": "Havering",
+      "country_code": "GB",
+      "slug": "havering"
+    },
+    {
+      "code": "GB_HIL",
+      "name": "Hillingdon",
+      "country_code": "GB",
+      "slug": "hillingdon"
+    },
+    {
+      "code": "GB_HNS",
+      "name": "Hounslow",
+      "country_code": "GB",
+      "slug": "hounslow"
+    },
+    {
+      "code": "GB_ISL",
+      "name": "Islington",
+      "country_code": "GB",
+      "slug": "islington"
+    },
+    {
+      "code": "GB_KEC",
+      "name": "Kensington and Chelsea",
+      "country_code": "GB",
+      "slug": "kensington-and-chelsea"
+    },
+    {
+      "code": "GB_KTT",
+      "name": "Kingston upon Thames",
+      "country_code": "GB",
+      "slug": "kingston-upon-thames"
+    },
+    {
+      "code": "GB_LBH",
+      "name": "Lambeth",
+      "country_code": "GB",
+      "slug": "lambeth"
+    },
+    {
+      "code": "GB_LEW",
+      "name": "Lewisham",
+      "country_code": "GB",
+      "slug": "lewisham"
+    },
+    {
+      "code": "GB_MRT",
+      "name": "Merton",
+      "country_code": "GB",
+      "slug": "merton"
+    },
+    {
+      "code": "GB_NWM",
+      "name": "Newham",
+      "country_code": "GB",
+      "slug": "newham"
+    },
+    {
+      "code": "GB_RDB",
+      "name": "Redbridge",
+      "country_code": "GB",
+      "slug": "redbridge"
+    },
+    {
+      "code": "GB_RIC",
+      "name": "Richmond upon Thames",
+      "country_code": "GB",
+      "slug": "richmond-upon-thames"
+    },
+    {
+      "code": "GB_SWK",
+      "name": "Southwark",
+      "country_code": "GB",
+      "slug": "southwark"
+    },
+    {
+      "code": "GB_STN",
+      "name": "Sutton",
+      "country_code": "GB",
+      "slug": "sutton"
+    },
+    {
+      "code": "GB_TWH",
+      "name": "Tower Hamlets",
+      "country_code": "GB",
+      "slug": "tower-hamlets"
+    },
+    {
+      "code": "GB_WFT",
+      "name": "Waltham Forest",
+      "country_code": "GB",
+      "slug": "waltham-forest"
+    },
+    {
+      "code": "GB_WND",
+      "name": "Wandsworth",
+      "country_code": "GB",
+      "slug": "wandsworth"
+    },
+    {
+      "code": "GB_WSM",
+      "name": "Westminster",
+      "country_code": "GB",
+      "slug": "westminster"
+    },
+    {
+      "code": "GB_BNS",
+      "name": "Barnsley",
+      "country_code": "GB",
+      "slug": "barnsley"
+    },
+    {
+      "code": "GB_BIR",
+      "name": "Birmingham",
+      "country_code": "GB",
+      "slug": "birmingham"
+    },
+    {
+      "code": "GB_BOL",
+      "name": "Bolton",
+      "country_code": "GB",
+      "slug": "bolton"
+    },
+    {
+      "code": "GB_BRD",
+      "name": "Bradford",
+      "country_code": "GB",
+      "slug": "bradford"
+    },
+    {
+      "code": "GB_BUR",
+      "name": "Bury",
+      "country_code": "GB",
+      "slug": "bury"
+    },
+    {
+      "code": "GB_CLD",
+      "name": "Calderdale",
+      "country_code": "GB",
+      "slug": "calderdale"
+    },
+    {
+      "code": "GB_COV",
+      "name": "Coventry",
+      "country_code": "GB",
+      "slug": "coventry"
+    },
+    {
+      "code": "GB_DNC",
+      "name": "Doncaster",
+      "country_code": "GB",
+      "slug": "doncaster"
+    },
+    {
+      "code": "GB_DUD",
+      "name": "Dudley",
+      "country_code": "GB",
+      "slug": "dudley"
+    },
+    {
+      "code": "GB_GAT",
+      "name": "Gateshead",
+      "country_code": "GB",
+      "slug": "gateshead"
+    },
+    {
+      "code": "GB_KIR",
+      "name": "Kirklees",
+      "country_code": "GB",
+      "slug": "kirklees"
+    },
+    {
+      "code": "GB_KWL",
+      "name": "Knowsley",
+      "country_code": "GB",
+      "slug": "knowsley"
+    },
+    {
+      "code": "GB_LDS",
+      "name": "Leeds",
+      "country_code": "GB",
+      "slug": "leeds"
+    },
+    {
+      "code": "GB_LIV",
+      "name": "Liverpool",
+      "country_code": "GB",
+      "slug": "liverpool"
+    },
+    {
+      "code": "GB_MAN",
+      "name": "Manchester",
+      "country_code": "GB",
+      "slug": "manchester"
+    },
+    {
+      "code": "GB_NET",
+      "name": "Newcastle upon Tyne",
+      "country_code": "GB",
+      "slug": "newcastle-upon-tyne"
+    },
+    {
+      "code": "GB_NTY",
+      "name": "North Tyneside",
+      "country_code": "GB",
+      "slug": "north-tyneside"
+    },
+    {
+      "code": "GB_OLD",
+      "name": "Oldham",
+      "country_code": "GB",
+      "slug": "oldham"
+    },
+    {
+      "code": "GB_RCH",
+      "name": "Rochdale",
+      "country_code": "GB",
+      "slug": "rochdale"
+    },
+    {
+      "code": "GB_ROT",
+      "name": "Rotherham",
+      "country_code": "GB",
+      "slug": "rotherham"
+    },
+    {
+      "code": "GB_SLF",
+      "name": "Salford",
+      "country_code": "GB",
+      "slug": "salford"
+    },
+    {
+      "code": "GB_SAW",
+      "name": "Sandwell",
+      "country_code": "GB",
+      "slug": "sandwell"
+    },
+    {
+      "code": "GB_SFT",
+      "name": "Sefton",
+      "country_code": "GB",
+      "slug": "sefton"
+    },
+    {
+      "code": "GB_SHF",
+      "name": "Sheffield",
+      "country_code": "GB",
+      "slug": "sheffield"
+    },
+    {
+      "code": "GB_SOL",
+      "name": "Solihull",
+      "country_code": "GB",
+      "slug": "solihull"
+    },
+    {
+      "code": "GB_STY",
+      "name": "South Tyneside",
+      "country_code": "GB",
+      "slug": "south-tyneside"
+    },
+    {
+      "code": "GB_SKP",
+      "name": "Stockport",
+      "country_code": "GB",
+      "slug": "stockport"
+    },
+    {
+      "code": "GB_SND",
+      "name": "Sunderland",
+      "country_code": "GB",
+      "slug": "sunderland"
+    },
+    {
+      "code": "GB_TAM",
+      "name": "Tameside",
+      "country_code": "GB",
+      "slug": "tameside"
+    },
+    {
+      "code": "GB_TRF",
+      "name": "Trafford",
+      "country_code": "GB",
+      "slug": "trafford"
+    },
+    {
+      "code": "GB_WKF",
+      "name": "Wakefield",
+      "country_code": "GB",
+      "slug": "wakefield"
+    },
+    {
+      "code": "GB_WLL",
+      "name": "Walsall",
+      "country_code": "GB",
+      "slug": "walsall"
+    },
+    {
+      "code": "GB_WGN",
+      "name": "Wigan",
+      "country_code": "GB",
+      "slug": "wigan"
+    },
+    {
+      "code": "GB_WRL",
+      "name": "Wirral",
+      "country_code": "GB",
+      "slug": "wirral"
+    },
+    {
+      "code": "GB_WLV",
+      "name": "Wolverhampton",
+      "country_code": "GB",
+      "slug": "wolverhampton"
+    },
+    {
+      "code": "GB_BAS",
+      "name": "Bath and North East Somerset",
+      "country_code": "GB",
+      "slug": "bath-and-north-east-somerset"
+    },
+    {
+      "code": "GB_BDF",
+      "name": "Bedford",
+      "country_code": "GB",
+      "slug": "bedford"
+    },
+    {
+      "code": "GB_BBD",
+      "name": "Blackburn with Darwen",
+      "country_code": "GB",
+      "slug": "blackburn-with-darwen"
+    },
+    {
+      "code": "GB_BPL",
+      "name": "Blackpool",
+      "country_code": "GB",
+      "slug": "blackpool"
+    },
+    {
+      "code": "GB_BMH",
+      "name": "Bournemouth",
+      "country_code": "GB",
+      "slug": "bournemouth"
+    },
+    {
+      "code": "GB_BRC",
+      "name": "Bracknell Forest",
+      "country_code": "GB",
+      "slug": "bracknell-forest"
+    },
+    {
+      "code": "GB_BNH",
+      "name": "Brighton and Hove",
+      "country_code": "GB",
+      "slug": "brighton-and-hove"
+    },
+    {
+      "code": "GB_BST",
+      "name": "Bristol",
+      "country_code": "GB",
+      "slug": "bristol"
+    },
+    {
+      "code": "GB_CBF",
+      "name": "Central Bedfordshire",
+      "country_code": "GB",
+      "slug": "central-bedfordshire"
+    },
+    {
+      "code": "GB_CHE",
+      "name": "Cheshire East",
+      "country_code": "GB",
+      "slug": "cheshire-east"
+    },
+    {
+      "code": "GB_CHW",
+      "name": "Cheshire West and Chester",
+      "country_code": "GB",
+      "slug": "cheshire-west-and-chester"
+    },
+    {
+      "code": "GB_CON",
+      "name": "Cornwall",
+      "country_code": "GB",
+      "slug": "cornwall"
+    },
+    {
+      "code": "GB_DAL",
+      "name": "Darlington",
+      "country_code": "GB",
+      "slug": "darlington"
+    },
+    {
+      "code": "GB_DER",
+      "name": "Derby",
+      "country_code": "GB",
+      "slug": "derby"
+    },
+    {
+      "code": "GB_DUR",
+      "name": "Durham County",
+      "country_code": "GB",
+      "slug": "durham-county"
+    },
+    {
+      "code": "GB_ERY",
+      "name": "East Riding of Yorkshire",
+      "country_code": "GB",
+      "slug": "east-riding-of-yorkshire"
+    },
+    {
+      "code": "GB_HAL",
+      "name": "Halton",
+      "country_code": "GB",
+      "slug": "halton"
+    },
+    {
+      "code": "GB_HPL",
+      "name": "Hartlepool",
+      "country_code": "GB",
+      "slug": "hartlepool"
+    },
+    {
+      "code": "GB_HEF",
+      "name": "Herefordshire",
+      "country_code": "GB",
+      "slug": "herefordshire"
+    },
+    {
+      "code": "GB_IOW",
+      "name": "Isle of Wight",
+      "country_code": "GB",
+      "slug": "isle-of-wight"
+    },
+    {
+      "code": "GB_IOS",
+      "name": "Isles of Scilly",
+      "country_code": "GB",
+      "slug": "isles-of-scilly"
+    },
+    {
+      "code": "GB_KHL",
+      "name": "Kingston upon Hull",
+      "country_code": "GB",
+      "slug": "kingston-upon-hull"
+    },
+    {
+      "code": "GB_LCE",
+      "name": "Leicester",
+      "country_code": "GB",
+      "slug": "leicester"
+    },
+    {
+      "code": "GB_LUT",
+      "name": "Luton",
+      "country_code": "GB",
+      "slug": "luton"
+    },
+    {
+      "code": "GB_MDW",
+      "name": "Medway",
+      "country_code": "GB",
+      "slug": "medway"
+    },
+    {
+      "code": "GB_MDB",
+      "name": "Middlesbrough",
+      "country_code": "GB",
+      "slug": "middlesbrough"
+    },
+    {
+      "code": "GB_MIK",
+      "name": "Milton Keynes",
+      "country_code": "GB",
+      "slug": "milton-keynes"
+    },
+    {
+      "code": "GB_NEL",
+      "name": "North East Lincolnshire",
+      "country_code": "GB",
+      "slug": "north-east-lincolnshire"
+    },
+    {
+      "code": "GB_NLN",
+      "name": "North Lincolnshire",
+      "country_code": "GB",
+      "slug": "north-lincolnshire"
+    },
+    {
+      "code": "GB_NSM",
+      "name": "North Somerset",
+      "country_code": "GB",
+      "slug": "north-somerset"
+    },
+    {
+      "code": "GB_NBL",
+      "name": "Northumberland",
+      "country_code": "GB",
+      "slug": "northumberland"
+    },
+    {
+      "code": "GB_NGM",
+      "name": "Nottingham",
+      "country_code": "GB",
+      "slug": "nottingham"
+    },
+    {
+      "code": "GB_PTE",
+      "name": "Peterborough",
+      "country_code": "GB",
+      "slug": "peterborough"
+    },
+    {
+      "code": "GB_PLY",
+      "name": "Plymouth",
+      "country_code": "GB",
+      "slug": "plymouth"
+    },
+    {
+      "code": "GB_POL",
+      "name": "Poole",
+      "country_code": "GB",
+      "slug": "poole"
+    },
+    {
+      "code": "GB_POR",
+      "name": "Portsmouth",
+      "country_code": "GB",
+      "slug": "portsmouth"
+    },
+    {
+      "code": "GB_RDG",
+      "name": "Reading",
+      "country_code": "GB",
+      "slug": "reading"
+    },
+    {
+      "code": "GB_RCC",
+      "name": "Redcar and Cleveland",
+      "country_code": "GB",
+      "slug": "redcar-and-cleveland"
+    },
+    {
+      "code": "GB_RUT",
+      "name": "Rutland",
+      "country_code": "GB",
+      "slug": "rutland"
+    },
+    {
+      "code": "GB_SHR",
+      "name": "Shropshire",
+      "country_code": "GB",
+      "slug": "shropshire"
+    },
+    {
+      "code": "GB_SLG",
+      "name": "Slough",
+      "country_code": "GB",
+      "slug": "slough"
+    },
+    {
+      "code": "GB_SGC",
+      "name": "South Gloucestershire",
+      "country_code": "GB",
+      "slug": "south-gloucestershire"
+    },
+    {
+      "code": "GB_STH",
+      "name": "Southampton",
+      "country_code": "GB",
+      "slug": "southampton"
+    },
+    {
+      "code": "GB_SOS",
+      "name": "Southend-on-Sea",
+      "country_code": "GB",
+      "slug": "southend-on-sea"
+    },
+    {
+      "code": "GB_STT",
+      "name": "Stockton-on-Tees",
+      "country_code": "GB",
+      "slug": "stockton-on-tees"
+    },
+    {
+      "code": "GB_STE",
+      "name": "Stoke-on-Trent",
+      "country_code": "GB",
+      "slug": "stoke-on-trent"
+    },
+    {
+      "code": "GB_SWD",
+      "name": "Swindon",
+      "country_code": "GB",
+      "slug": "swindon"
+    },
+    {
+      "code": "GB_TFW",
+      "name": "Telford and Wrekin",
+      "country_code": "GB",
+      "slug": "telford-and-wrekin"
+    },
+    {
+      "code": "GB_THR",
+      "name": "Thurrock",
+      "country_code": "GB",
+      "slug": "thurrock"
+    },
+    {
+      "code": "GB_TOB",
+      "name": "Torbay",
+      "country_code": "GB",
+      "slug": "torbay"
+    },
+    {
+      "code": "GB_WRT",
+      "name": "Warrington",
+      "country_code": "GB",
+      "slug": "warrington"
+    },
+    {
+      "code": "GB_WBK",
+      "name": "West Berkshire",
+      "country_code": "GB",
+      "slug": "west-berkshire"
+    },
+    {
+      "code": "GB_WIL",
+      "name": "Wiltshire",
+      "country_code": "GB",
+      "slug": "wiltshire"
+    },
+    {
+      "code": "GB_WNM",
+      "name": "Windsor and Maidenhead",
+      "country_code": "GB",
+      "slug": "windsor-and-maidenhead"
+    },
+    {
+      "code": "GB_WOK",
+      "name": "Wokingham",
+      "country_code": "GB",
+      "slug": "wokingham"
+    },
+    {
+      "code": "GB_YOR",
+      "name": "York",
+      "country_code": "GB",
+      "slug": "york"
+    },
+    {
+      "code": "GB_ANN",
+      "name": "Antrim and Newtownabbey",
+      "country_code": "GB",
+      "slug": "antrim-and-newtownabbey"
+    },
+    {
+      "code": "GB_AND",
+      "name": "Ards and North Down",
+      "country_code": "GB",
+      "slug": "ards-and-north-down"
+    },
+    {
+      "code": "GB_ABC",
+      "name": "Armagh Banbridge and Craigavon",
+      "country_code": "GB",
+      "slug": "armagh-banbridge-and-craigavon"
+    },
+    {
+      "code": "GB_BFS",
+      "name": "Belfast",
+      "country_code": "GB",
+      "slug": "belfast"
+    },
+    {
+      "code": "GB_CCG",
+      "name": "Causeway Coast and Glens",
+      "country_code": "GB",
+      "slug": "causeway-coast-and-glens"
+    },
+    {
+      "code": "GB_DRS",
+      "name": "Derry and Strabane",
+      "country_code": "GB",
+      "slug": "derry-and-strabane"
+    },
+    {
+      "code": "GB_FMO",
+      "name": "Fermanagh and Omagh",
+      "country_code": "GB",
+      "slug": "fermanagh-and-omagh"
+    },
+    {
+      "code": "GB_LBC",
+      "name": "Lisburn and Castlereagh",
+      "country_code": "GB",
+      "slug": "lisburn-and-castlereagh"
+    },
+    {
+      "code": "GB_MEA",
+      "name": "Mid and East Antrim",
+      "country_code": "GB",
+      "slug": "mid-and-east-antrim"
+    },
+    {
+      "code": "GB_MUL",
+      "name": "Mid Ulster",
+      "country_code": "GB",
+      "slug": "mid-ulster"
+    },
+    {
+      "code": "GB_NMD",
+      "name": "Newry Mourne and Down",
+      "country_code": "GB",
+      "slug": "newry-mourne-and-down"
+    },
+    {
+      "code": "GB_ABE",
+      "name": "Aberdeen City",
+      "country_code": "GB",
+      "slug": "aberdeen-city"
+    },
+    {
+      "code": "GB_ABD",
+      "name": "Aberdeenshire",
+      "country_code": "GB",
+      "slug": "aberdeenshire"
+    },
+    {
+      "code": "GB_ANS",
+      "name": "Angus",
+      "country_code": "GB",
+      "slug": "angus"
+    },
+    {
+      "code": "GB_AGB",
+      "name": "Argyll and Bute",
+      "country_code": "GB",
+      "slug": "argyll-and-bute"
+    },
+    {
+      "code": "GB_CLK",
+      "name": "Clackmannanshire",
+      "country_code": "GB",
+      "slug": "clackmannanshire"
+    },
+    {
+      "code": "GB_DGY",
+      "name": "Dumfries and Galloway",
+      "country_code": "GB",
+      "slug": "dumfries-and-galloway"
+    },
+    {
+      "code": "GB_DND",
+      "name": "Dundee City",
+      "country_code": "GB",
+      "slug": "dundee-city"
+    },
+    {
+      "code": "GB_EAY",
+      "name": "East Ayrshire",
+      "country_code": "GB",
+      "slug": "east-ayrshire"
+    },
+    {
+      "code": "GB_EDU",
+      "name": "East Dunbartonshire",
+      "country_code": "GB",
+      "slug": "east-dunbartonshire"
+    },
+    {
+      "code": "GB_ELN",
+      "name": "East Lothian",
+      "country_code": "GB",
+      "slug": "east-lothian"
+    },
+    {
+      "code": "GB_ERW",
+      "name": "East Renfrewshire",
+      "country_code": "GB",
+      "slug": "east-renfrewshire"
+    },
+    {
+      "code": "GB_EDH",
+      "name": "Edinburgh",
+      "country_code": "GB",
+      "slug": "edinburgh"
+    },
+    {
+      "code": "GB_ELS",
+      "name": "Eilean Siar",
+      "country_code": "GB",
+      "slug": "eilean-siar"
+    },
+    {
+      "code": "GB_FAL",
+      "name": "Falkirk",
+      "country_code": "GB",
+      "slug": "falkirk"
+    },
+    {
+      "code": "GB_FIF",
+      "name": "Fife",
+      "country_code": "GB",
+      "slug": "fife"
+    },
+    {
+      "code": "GB_GLG",
+      "name": "Glasgow City",
+      "country_code": "GB",
+      "slug": "glasgow-city"
+    },
+    {
+      "code": "GB_HLD",
+      "name": "Highland",
+      "country_code": "GB",
+      "slug": "highland"
+    },
+    {
+      "code": "GB_IVC",
+      "name": "Inverclyde",
+      "country_code": "GB",
+      "slug": "inverclyde"
+    },
+    {
+      "code": "GB_MLN",
+      "name": "Midlothian",
+      "country_code": "GB",
+      "slug": "midlothian"
+    },
+    {
+      "code": "GB_MRY",
+      "name": "Moray",
+      "country_code": "GB",
+      "slug": "moray"
+    },
+    {
+      "code": "GB_NAY",
+      "name": "North Ayrshire",
+      "country_code": "GB",
+      "slug": "north-ayrshire"
+    },
+    {
+      "code": "GB_NLK",
+      "name": "North Lanarkshire",
+      "country_code": "GB",
+      "slug": "north-lanarkshire"
+    },
+    {
+      "code": "GB_ORK",
+      "name": "Orkney Islands",
+      "country_code": "GB",
+      "slug": "orkney-islands"
+    },
+    {
+      "code": "GB_PKN",
+      "name": "Perth and Kinross",
+      "country_code": "GB",
+      "slug": "perth-and-kinross"
+    },
+    {
+      "code": "GB_RFW",
+      "name": "Renfrewshire",
+      "country_code": "GB",
+      "slug": "renfrewshire"
+    },
+    {
+      "code": "GB_SCB",
+      "name": "Scottish Borders",
+      "country_code": "GB",
+      "slug": "scottish-borders"
+    },
+    {
+      "code": "GB_ZET",
+      "name": "Shetland Islands",
+      "country_code": "GB",
+      "slug": "shetland-islands"
+    },
+    {
+      "code": "GB_SAY",
+      "name": "South Ayrshire",
+      "country_code": "GB",
+      "slug": "south-ayrshire"
+    },
+    {
+      "code": "GB_SLK",
+      "name": "South Lanarkshire",
+      "country_code": "GB",
+      "slug": "south-lanarkshire"
+    },
+    {
+      "code": "GB_STG",
+      "name": "Stirling",
+      "country_code": "GB",
+      "slug": "stirling"
+    },
+    {
+      "code": "GB_WDU",
+      "name": "West Dunbartonshire",
+      "country_code": "GB",
+      "slug": "west-dunbartonshire"
+    },
+    {
+      "code": "GB_WLN",
+      "name": "West Lothian",
+      "country_code": "GB",
+      "slug": "west-lothian"
+    },
+    {
+      "code": "GB_BGW",
+      "name": "Blaenau Gwent",
+      "country_code": "GB",
+      "slug": "blaenau-gwent"
+    },
+    {
+      "code": "GB_BGE",
+      "name": "Bridgend",
+      "country_code": "GB",
+      "slug": "bridgend"
+    },
+    {
+      "code": "GB_CAY",
+      "name": "Caerphilly",
+      "country_code": "GB",
+      "slug": "caerphilly"
+    },
+    {
+      "code": "GB_CRF",
+      "name": "Cardiff",
+      "country_code": "GB",
+      "slug": "cardiff"
+    },
+    {
+      "code": "GB_CMN",
+      "name": "Carmarthenshire",
+      "country_code": "GB",
+      "slug": "carmarthenshire"
+    },
+    {
+      "code": "GB_CGN",
+      "name": "Ceredigion",
+      "country_code": "GB",
+      "slug": "ceredigion"
+    },
+    {
+      "code": "GB_CWY",
+      "name": "Conwy",
+      "country_code": "GB",
+      "slug": "conwy"
+    },
+    {
+      "code": "GB_DEN",
+      "name": "Denbighshire",
+      "country_code": "GB",
+      "slug": "denbighshire"
+    },
+    {
+      "code": "GB_FLN",
+      "name": "Flintshire",
+      "country_code": "GB",
+      "slug": "flintshire"
+    },
+    {
+      "code": "GB_GWN",
+      "name": "Gwynedd",
+      "country_code": "GB",
+      "slug": "gwynedd"
+    },
+    {
+      "code": "GB_AGY",
+      "name": "Isle of Anglesey",
+      "country_code": "GB",
+      "slug": "isle-of-anglesey"
+    },
+    {
+      "code": "GB_MTY",
+      "name": "Merthyr Tydfil",
+      "country_code": "GB",
+      "slug": "merthyr-tydfil"
+    },
+    {
+      "code": "GB_MON",
+      "name": "Monmouthshire",
+      "country_code": "GB",
+      "slug": "monmouthshire"
+    },
+    {
+      "code": "GB_NTL",
+      "name": "Neath Port Talbot",
+      "country_code": "GB",
+      "slug": "neath-port-talbot"
+    },
+    {
+      "code": "GB_NWP",
+      "name": "Newport",
+      "country_code": "GB",
+      "slug": "newport"
+    },
+    {
+      "code": "GB_PEM",
+      "name": "Pembrokeshire",
+      "country_code": "GB",
+      "slug": "pembrokeshire"
+    },
+    {
+      "code": "GB_POW",
+      "name": "Powys",
+      "country_code": "GB",
+      "slug": "powys"
+    },
+    {
+      "code": "GB_RCT",
+      "name": "Rhondda, Cynon, Taff",
+      "country_code": "GB",
+      "slug": "rhondda-cynon-taff"
+    },
+    {
+      "code": "GB_SWA",
+      "name": "Swansea",
+      "country_code": "GB",
+      "slug": "swansea"
+    },
+    {
+      "code": "GB_TOF",
+      "name": "Torfaen",
+      "country_code": "GB",
+      "slug": "torfaen"
+    },
+    {
+      "code": "GB_VGL",
+      "name": "Vale of Glamorgan",
+      "country_code": "GB",
+      "slug": "vale-of-glamorgan"
+    },
+    {
+      "code": "GB_WRX",
+      "name": "Wrexham",
+      "country_code": "GB",
+      "slug": "wrexham"
+    },
+    {
+      "code": "AZ",
+      "name": "Arizona",
+      "country_code": "US",
+      "slug": "arizona"
+    },
+    {
+      "code": "LA",
+      "name": "Louisiana",
+      "country_code": "US",
+      "slug": "louisiana"
+    },
+    {
+      "code": "PA",
+      "name": "Pennsylvania",
+      "country_code": "US",
+      "slug": "pennsylvania"
+    },
+    {
+      "code": "GW_BA",
+      "name": "Bafata",
+      "country_code": "GW",
+      "slug": "bafata"
+    },
+    {
+      "code": "GW_BM",
+      "name": "Biombo",
+      "country_code": "GW",
+      "slug": "biombo"
+    },
+    {
+      "code": "GW_BS",
+      "name": "Bissau",
+      "country_code": "GW",
+      "slug": "bissau"
+    },
+    {
+      "code": "GW_BL",
+      "name": "Bolama/Bijagos",
+      "country_code": "GW",
+      "slug": "bolama-bijagos"
+    },
+    {
+      "code": "GW_CA",
+      "name": "Cacheu",
+      "country_code": "GW",
+      "slug": "cacheu"
+    },
+    {
+      "code": "GW_GA",
+      "name": "Gabu",
+      "country_code": "GW",
+      "slug": "gabu"
+    },
+    {
+      "code": "GW_OI",
+      "name": "Oio",
+      "country_code": "GW",
+      "slug": "oio"
+    },
+    {
+      "code": "GW_QU",
+      "name": "Quinara",
+      "country_code": "GW",
+      "slug": "quinara"
+    },
+    {
+      "code": "GW_TO",
+      "name": "Tombali",
+      "country_code": "GW",
+      "slug": "tombali"
+    },
+    {
+      "code": "ZA_EC",
+      "name": "Eastern Cape",
+      "country_code": "ZA",
+      "slug": "eastern-cape"
+    },
+    {
+      "code": "ZA_FS",
+      "name": "Free State",
+      "country_code": "ZA",
+      "slug": "free-state"
+    },
+    {
+      "code": "ZA_GT",
+      "name": "Gauteng",
+      "country_code": "ZA",
+      "slug": "gauteng"
+    },
+    {
+      "code": "ZA_NL",
+      "name": "KwaZulu-Natal",
+      "country_code": "ZA",
+      "slug": "kwazulu-natal"
+    },
+    {
+      "code": "ZA_LP",
+      "name": "Limpopo",
+      "country_code": "ZA",
+      "slug": "limpopo"
+    },
+    {
+      "code": "ZA_MP",
+      "name": "Mpumalanga",
+      "country_code": "ZA",
+      "slug": "mpumalanga"
+    },
+    {
+      "code": "ZA_NC",
+      "name": "Northern Cape",
+      "country_code": "ZA",
+      "slug": "northern-cape"
+    },
+    {
+      "code": "ZA_NW",
+      "name": "North West",
+      "country_code": "ZA",
+      "slug": "north-west"
+    },
+    {
+      "code": "ZA_WC",
+      "name": "Western Cape",
+      "country_code": "ZA",
+      "slug": "western-cape"
+    }
+  ]
+}

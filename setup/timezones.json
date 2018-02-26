@@ -1,0 +1,10 @@
+{
+  "model": "Timezone",
+  "objects": [
+    {
+      "code": "Africa/Lagos",
+      "name": "(GMT+0100) Africa/Lagos",
+      "offset": "+0100"
+    }
+  ]
+}

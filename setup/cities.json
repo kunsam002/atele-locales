@@ -1,0 +1,5627 @@
+{
+    "model": "City",
+    "objects": [
+        {
+            "state_code": "KDA",
+            "name": "Birnin Gwari",
+            "country_code": "NG",
+            "slug": "birnin-gwari"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Chikun",
+            "country_code": "NG",
+            "slug": "chikun"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Giwa",
+            "country_code": "NG",
+            "slug": "giwa"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Igabi",
+            "country_code": "NG",
+            "slug": "igabi"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Ikara",
+            "country_code": "NG",
+            "slug": "ikara"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Jaba",
+            "country_code": "NG",
+            "slug": "jaba"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Jema''a",
+            "country_code": "NG",
+            "slug": "jema-a"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Kachia",
+            "country_code": "NG",
+            "slug": "kachia"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Kaduna North",
+            "country_code": "NG",
+            "slug": "kaduna-north"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Kaduna South",
+            "country_code": "NG",
+            "slug": "kaduna-south"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Kagarko",
+            "country_code": "NG",
+            "slug": "kagarko"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Kajuru",
+            "country_code": "NG",
+            "slug": "kajuru"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Kaura",
+            "country_code": "NG",
+            "slug": "kaura"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Kauru",
+            "country_code": "NG",
+            "slug": "kauru"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Kubau",
+            "country_code": "NG",
+            "slug": "kubau"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Kudan",
+            "country_code": "NG",
+            "slug": "kudan"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Lere",
+            "country_code": "NG",
+            "slug": "lere"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Makarfi",
+            "country_code": "NG",
+            "slug": "makarfi"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Sabon Gari",
+            "country_code": "NG",
+            "slug": "sabon-gari"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Sanga",
+            "country_code": "NG",
+            "slug": "sanga"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Soba",
+            "country_code": "NG",
+            "slug": "soba"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Zangon Kataf",
+            "country_code": "NG",
+            "slug": "zangon-kataf"
+        },
+        {
+            "state_code": "KDA",
+            "name": "Zaria",
+            "country_code": "NG",
+            "slug": "zaria"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Ajingi",
+            "country_code": "NG",
+            "slug": "ajingi"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Albasu",
+            "country_code": "NG",
+            "slug": "albasu"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Bagwai",
+            "country_code": "NG",
+            "slug": "bagwai"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Bebeji",
+            "country_code": "NG",
+            "slug": "bebeji"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Bichi",
+            "country_code": "NG",
+            "slug": "bichi"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Bunkure",
+            "country_code": "NG",
+            "slug": "bunkure"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Dala",
+            "country_code": "NG",
+            "slug": "dala"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Dambatta",
+            "country_code": "NG",
+            "slug": "dambatta"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Dawakin Kudu",
+            "country_code": "NG",
+            "slug": "dawakin-kudu"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Dawakin Tofa",
+            "country_code": "NG",
+            "slug": "dawakin-tofa"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Doguwa",
+            "country_code": "NG",
+            "slug": "doguwa"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Fagge",
+            "country_code": "NG",
+            "slug": "fagge"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Gabasawa",
+            "country_code": "NG",
+            "slug": "gabasawa"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Garko",
+            "country_code": "NG",
+            "slug": "garko"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Garun Mallam",
+            "country_code": "NG",
+            "slug": "garun-mallam"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Gaya",
+            "country_code": "NG",
+            "slug": "gaya"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Gezawa",
+            "country_code": "NG",
+            "slug": "gezawa"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Gwale",
+            "country_code": "NG",
+            "slug": "gwale"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Gwarzo",
+            "country_code": "NG",
+            "slug": "gwarzo"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Kabo",
+            "country_code": "NG",
+            "slug": "kabo"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Kano Municipal",
+            "country_code": "NG",
+            "slug": "kano-municipal"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Karaye",
+            "country_code": "NG",
+            "slug": "karaye"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Kibiya",
+            "country_code": "NG",
+            "slug": "kibiya"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Kiru",
+            "country_code": "NG",
+            "slug": "kiru"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Kumbotso",
+            "country_code": "NG",
+            "slug": "kumbotso"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Kunchi",
+            "country_code": "NG",
+            "slug": "kunchi"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Kura",
+            "country_code": "NG",
+            "slug": "kura"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Madobi",
+            "country_code": "NG",
+            "slug": "madobi"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Makoda",
+            "country_code": "NG",
+            "slug": "makoda"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Minjibir",
+            "country_code": "NG",
+            "slug": "minjibir"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Nasarawa, Kano State",
+            "country_code": "NG",
+            "slug": "nasarawa-kano-state"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Rano",
+            "country_code": "NG",
+            "slug": "rano"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Rimin Gado",
+            "country_code": "NG",
+            "slug": "rimin-gado"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Rogo",
+            "country_code": "NG",
+            "slug": "rogo"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Shanono",
+            "country_code": "NG",
+            "slug": "shanono"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Sumaila",
+            "country_code": "NG",
+            "slug": "sumaila"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Takai",
+            "country_code": "NG",
+            "slug": "takai"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Tarauni",
+            "country_code": "NG",
+            "slug": "tarauni"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Tofa",
+            "country_code": "NG",
+            "slug": "tofa"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Tsanyawa",
+            "country_code": "NG",
+            "slug": "tsanyawa"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Tudun Wada",
+            "country_code": "NG",
+            "slug": "tudun-wada"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Ungogo",
+            "country_code": "NG",
+            "slug": "ungogo"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Warawa",
+            "country_code": "NG",
+            "slug": "warawa"
+        },
+        {
+            "state_code": "KAN",
+            "name": "Wudil",
+            "country_code": "NG",
+            "slug": "wudil"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Agatu",
+            "country_code": "NG",
+            "slug": "agatu"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Apa",
+            "country_code": "NG",
+            "slug": "apa"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Ado",
+            "country_code": "NG",
+            "slug": "ado"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Buruku",
+            "country_code": "NG",
+            "slug": "buruku"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Gboko",
+            "country_code": "NG",
+            "slug": "gboko"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Guma",
+            "country_code": "NG",
+            "slug": "guma"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Gwer East",
+            "country_code": "NG",
+            "slug": "gwer-east"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Gwer West",
+            "country_code": "NG",
+            "slug": "gwer-west"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Katsina-Ala",
+            "country_code": "NG",
+            "slug": "katsina-ala"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Konshisha",
+            "country_code": "NG",
+            "slug": "konshisha"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Kwande",
+            "country_code": "NG",
+            "slug": "kwande"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Logo",
+            "country_code": "NG",
+            "slug": "logo"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Makurdi",
+            "country_code": "NG",
+            "slug": "makurdi"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Obi, Benue State",
+            "country_code": "NG",
+            "slug": "obi-benue-state"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Ogbadibo",
+            "country_code": "NG",
+            "slug": "ogbadibo"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Ohimini",
+            "country_code": "NG",
+            "slug": "ohimini"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Oju",
+            "country_code": "NG",
+            "slug": "oju"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Okpokwu",
+            "country_code": "NG",
+            "slug": "okpokwu"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Oturkpo",
+            "country_code": "NG",
+            "slug": "oturkpo"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Tarka",
+            "country_code": "NG",
+            "slug": "tarka"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Ukum",
+            "country_code": "NG",
+            "slug": "ukum"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Ushongo",
+            "country_code": "NG",
+            "slug": "ushongo"
+        },
+        {
+            "state_code": "BNE",
+            "name": "Vandeikya",
+            "country_code": "NG",
+            "slug": "vandeikya"
+        },
+        {
+            "state_code": "GMB",
+            "name": "Akko",
+            "country_code": "NG",
+            "slug": "akko"
+        },
+        {
+            "state_code": "GMB",
+            "name": "Balanga",
+            "country_code": "NG",
+            "slug": "balanga"
+        },
+        {
+            "state_code": "GMB",
+            "name": "Billiri",
+            "country_code": "NG",
+            "slug": "billiri"
+        },
+        {
+            "state_code": "GMB",
+            "name": "Dukku",
+            "country_code": "NG",
+            "slug": "dukku"
+        },
+        {
+            "state_code": "GMB",
+            "name": "Funakaye",
+            "country_code": "NG",
+            "slug": "funakaye"
+        },
+        {
+            "state_code": "GMB",
+            "name": "Gombe",
+            "country_code": "NG",
+            "slug": "gombe"
+        },
+        {
+            "state_code": "GMB",
+            "name": "Kaltungo",
+            "country_code": "NG",
+            "slug": "kaltungo"
+        },
+        {
+            "state_code": "GMB",
+            "name": "Kwami",
+            "country_code": "NG",
+            "slug": "kwami"
+        },
+        {
+            "state_code": "GMB",
+            "name": "Nafada",
+            "country_code": "NG",
+            "slug": "nafada"
+        },
+        {
+            "state_code": "GMB",
+            "name": "Shongom",
+            "country_code": "NG",
+            "slug": "shongom"
+        },
+        {
+            "state_code": "GMB",
+            "name": "Yamaltu/Deba",
+            "country_code": "NG",
+            "slug": "yamaltu-deba"
+        },
+        {
+            "state_code": "EBN",
+            "name": "Abakaliki",
+            "country_code": "NG",
+            "slug": "abakaliki"
+        },
+        {
+            "state_code": "EBN",
+            "name": "Afikpo North",
+            "country_code": "NG",
+            "slug": "afikpo-north"
+        },
+        {
+            "state_code": "EBN",
+            "name": "Afikpo South",
+            "country_code": "NG",
+            "slug": "afikpo-south"
+        },
+        {
+            "state_code": "EBN",
+            "name": "Ebonyi",
+            "country_code": "NG",
+            "slug": "ebonyi"
+        },
+        {
+            "state_code": "EBN",
+            "name": "Ezza North",
+            "country_code": "NG",
+            "slug": "ezza-north"
+        },
+        {
+            "state_code": "EBN",
+            "name": "Ezza South",
+            "country_code": "NG",
+            "slug": "ezza-south"
+        },
+        {
+            "state_code": "EBN",
+            "name": "Ikwo",
+            "country_code": "NG",
+            "slug": "ikwo"
+        },
+        {
+            "state_code": "EBN",
+            "name": "Ishielu",
+            "country_code": "NG",
+            "slug": "ishielu"
+        },
+        {
+            "state_code": "EBN",
+            "name": "Ivo",
+            "country_code": "NG",
+            "slug": "ivo"
+        },
+        {
+            "state_code": "EBN",
+            "name": "Izzi",
+            "country_code": "NG",
+            "slug": "izzi"
+        },
+        {
+            "state_code": "EBN",
+            "name": "Ohaozara",
+            "country_code": "NG",
+            "slug": "ohaozara"
+        },
+        {
+            "state_code": "EBN",
+            "name": "Ohaukwu",
+            "country_code": "NG",
+            "slug": "ohaukwu"
+        },
+        {
+            "state_code": "EBN",
+            "name": "Onicha",
+            "country_code": "NG",
+            "slug": "onicha"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Aniocha North",
+            "country_code": "NG",
+            "slug": "aniocha-north"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Aniocha South",
+            "country_code": "NG",
+            "slug": "aniocha-south"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Bomadi",
+            "country_code": "NG",
+            "slug": "bomadi"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Burutu",
+            "country_code": "NG",
+            "slug": "burutu"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Ethiope East",
+            "country_code": "NG",
+            "slug": "ethiope-east"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Ethiope West",
+            "country_code": "NG",
+            "slug": "ethiope-west"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Ika North East",
+            "country_code": "NG",
+            "slug": "ika-north-east"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Ika South",
+            "country_code": "NG",
+            "slug": "ika-south"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Isoko North",
+            "country_code": "NG",
+            "slug": "isoko-north"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Isoko South",
+            "country_code": "NG",
+            "slug": "isoko-south"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Ndokwa East",
+            "country_code": "NG",
+            "slug": "ndokwa-east"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Ndokwa West",
+            "country_code": "NG",
+            "slug": "ndokwa-west"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Okpe",
+            "country_code": "NG",
+            "slug": "okpe"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Oshimili North",
+            "country_code": "NG",
+            "slug": "oshimili-north"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Oshimili South",
+            "country_code": "NG",
+            "slug": "oshimili-south"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Patani",
+            "country_code": "NG",
+            "slug": "patani"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Sapele, Delta",
+            "country_code": "NG",
+            "slug": "sapele-delta"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Udu",
+            "country_code": "NG",
+            "slug": "udu"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Ughelli North",
+            "country_code": "NG",
+            "slug": "ughelli-north"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Ughelli South",
+            "country_code": "NG",
+            "slug": "ughelli-south"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Ukwuani",
+            "country_code": "NG",
+            "slug": "ukwuani"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Uvwie",
+            "country_code": "NG",
+            "slug": "uvwie"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Warri North",
+            "country_code": "NG",
+            "slug": "warri-north"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Warri South",
+            "country_code": "NG",
+            "slug": "warri-south"
+        },
+        {
+            "state_code": "DEL",
+            "name": "Warri South West",
+            "country_code": "NG",
+            "slug": "warri-south-west"
+        },
+        {
+            "state_code": "YBE",
+            "name": "Bade",
+            "country_code": "NG",
+            "slug": "bade"
+        },
+        {
+            "state_code": "YBE",
+            "name": "Bursari",
+            "country_code": "NG",
+            "slug": "bursari"
+        },
+        {
+            "state_code": "YBE",
+            "name": "Damaturu",
+            "country_code": "NG",
+            "slug": "damaturu"
+        },
+        {
+            "state_code": "YBE",
+            "name": "Fika",
+            "country_code": "NG",
+            "slug": "fika"
+        },
+        {
+            "state_code": "YBE",
+            "name": "Fune",
+            "country_code": "NG",
+            "slug": "fune"
+        },
+        {
+            "state_code": "YBE",
+            "name": "Geidam",
+            "country_code": "NG",
+            "slug": "geidam"
+        },
+        {
+            "state_code": "YBE",
+            "name": "Gujba",
+            "country_code": "NG",
+            "slug": "gujba"
+        },
+        {
+            "state_code": "YBE",
+            "name": "Gulani",
+            "country_code": "NG",
+            "slug": "gulani"
+        },
+        {
+            "state_code": "YBE",
+            "name": "Jakusko",
+            "country_code": "NG",
+            "slug": "jakusko"
+        },
+        {
+            "state_code": "YBE",
+            "name": "Karasuwa",
+            "country_code": "NG",
+            "slug": "karasuwa"
+        },
+        {
+            "state_code": "YBE",
+            "name": "Machina",
+            "country_code": "NG",
+            "slug": "machina"
+        },
+        {
+            "state_code": "YBE",
+            "name": "Nangere",
+            "country_code": "NG",
+            "slug": "nangere"
+        },
+        {
+            "state_code": "YBE",
+            "name": "Nguru",
+            "country_code": "NG",
+            "slug": "nguru"
+        },
+        {
+            "state_code": "YBE",
+            "name": "Potiskum",
+            "country_code": "NG",
+            "slug": "potiskum"
+        },
+        {
+            "state_code": "YBE",
+            "name": "Tarmuwa",
+            "country_code": "NG",
+            "slug": "tarmuwa"
+        },
+        {
+            "state_code": "YBE",
+            "name": "Yunusari",
+            "country_code": "NG",
+            "slug": "yunusari"
+        },
+        {
+            "state_code": "YBE",
+            "name": "Yusufari",
+            "country_code": "NG",
+            "slug": "yusufari"
+        },
+        {
+            "state_code": "ZFR",
+            "name": "Anka",
+            "country_code": "NG",
+            "slug": "anka"
+        },
+        {
+            "state_code": "ZFR",
+            "name": "Bakura",
+            "country_code": "NG",
+            "slug": "bakura"
+        },
+        {
+            "state_code": "ZFR",
+            "name": "Birnin Magaji/Kiyaw",
+            "country_code": "NG",
+            "slug": "birnin-magaji-kiyaw"
+        },
+        {
+            "state_code": "ZFR",
+            "name": "Bukkuyum",
+            "country_code": "NG",
+            "slug": "bukkuyum"
+        },
+        {
+            "state_code": "ZFR",
+            "name": "Bungudu",
+            "country_code": "NG",
+            "slug": "bungudu"
+        },
+        {
+            "state_code": "ZFR",
+            "name": "Gummi",
+            "country_code": "NG",
+            "slug": "gummi"
+        },
+        {
+            "state_code": "ZFR",
+            "name": "Gusau",
+            "country_code": "NG",
+            "slug": "gusau"
+        },
+        {
+            "state_code": "ZFR",
+            "name": "Kaura Namoda",
+            "country_code": "NG",
+            "slug": "kaura-namoda"
+        },
+        {
+            "state_code": "ZFR",
+            "name": "Maradun",
+            "country_code": "NG",
+            "slug": "maradun"
+        },
+        {
+            "state_code": "ZFR",
+            "name": "Maru",
+            "country_code": "NG",
+            "slug": "maru"
+        },
+        {
+            "state_code": "ZFR",
+            "name": "Shinkafi",
+            "country_code": "NG",
+            "slug": "shinkafi"
+        },
+        {
+            "state_code": "ZFR",
+            "name": "Talata Mafara",
+            "country_code": "NG",
+            "slug": "talata-mafara"
+        },
+        {
+            "state_code": "ZFR",
+            "name": "Chafe",
+            "country_code": "NG",
+            "slug": "chafe"
+        },
+        {
+            "state_code": "ZFR",
+            "name": "Zurmi",
+            "country_code": "NG",
+            "slug": "zurmi"
+        },
+        {
+            "state_code": "EKI",
+            "name": "Ado Ekiti",
+            "country_code": "NG",
+            "slug": "ado-ekiti"
+        },
+        {
+            "state_code": "EKI",
+            "name": "Efon",
+            "country_code": "NG",
+            "slug": "efon"
+        },
+        {
+            "state_code": "EKI",
+            "name": "Ekiti East",
+            "country_code": "NG",
+            "slug": "ekiti-east"
+        },
+        {
+            "state_code": "EKI",
+            "name": "Ekiti South-West",
+            "country_code": "NG",
+            "slug": "ekiti-south-west"
+        },
+        {
+            "state_code": "EKI",
+            "name": "Ekiti West",
+            "country_code": "NG",
+            "slug": "ekiti-west"
+        },
+        {
+            "state_code": "EKI",
+            "name": "Emure",
+            "country_code": "NG",
+            "slug": "emure"
+        },
+        {
+            "state_code": "EKI",
+            "name": "Gbonyin",
+            "country_code": "NG",
+            "slug": "gbonyin"
+        },
+        {
+            "state_code": "EKI",
+            "name": "Ido Osi",
+            "country_code": "NG",
+            "slug": "ido-osi"
+        },
+        {
+            "state_code": "EKI",
+            "name": "Ijero",
+            "country_code": "NG",
+            "slug": "ijero"
+        },
+        {
+            "state_code": "EKI",
+            "name": "Ikere",
+            "country_code": "NG",
+            "slug": "ikere"
+        },
+        {
+            "state_code": "EKI",
+            "name": "Ikole",
+            "country_code": "NG",
+            "slug": "ikole"
+        },
+        {
+            "state_code": "EKI",
+            "name": "Ilejemeje",
+            "country_code": "NG",
+            "slug": "ilejemeje"
+        },
+        {
+            "state_code": "EKI",
+            "name": "Irepodun/Ifelodun",
+            "country_code": "NG",
+            "slug": "irepodun-ifelodun"
+        },
+        {
+            "state_code": "EKI",
+            "name": "Ise/Orun",
+            "country_code": "NG",
+            "slug": "ise-orun"
+        },
+        {
+            "state_code": "EKI",
+            "name": "Moba",
+            "country_code": "NG",
+            "slug": "moba"
+        },
+        {
+            "state_code": "EKI",
+            "name": "Oye",
+            "country_code": "NG",
+            "slug": "oye"
+        },
+        {
+            "state_code": "EDO",
+            "name": "Akoko-Edo",
+            "country_code": "NG",
+            "slug": "akoko-edo"
+        },
+        {
+            "state_code": "EDO",
+            "name": "Egor",
+            "country_code": "NG",
+            "slug": "egor"
+        },
+        {
+            "state_code": "EDO",
+            "name": "Esan Central",
+            "country_code": "NG",
+            "slug": "esan-central"
+        },
+        {
+            "state_code": "EDO",
+            "name": "Esan North-East",
+            "country_code": "NG",
+            "slug": "esan-north-east"
+        },
+        {
+            "state_code": "EDO",
+            "name": "Esan South-East",
+            "country_code": "NG",
+            "slug": "esan-south-east"
+        },
+        {
+            "state_code": "EDO",
+            "name": "Esan West",
+            "country_code": "NG",
+            "slug": "esan-west"
+        },
+        {
+            "state_code": "EDO",
+            "name": "Etsako Central",
+            "country_code": "NG",
+            "slug": "etsako-central"
+        },
+        {
+            "state_code": "EDO",
+            "name": "Etsako East",
+            "country_code": "NG",
+            "slug": "etsako-east"
+        },
+        {
+            "state_code": "EDO",
+            "name": "Etsako West",
+            "country_code": "NG",
+            "slug": "etsako-west"
+        },
+        {
+            "state_code": "EDO",
+            "name": "Igueben",
+            "country_code": "NG",
+            "slug": "igueben"
+        },
+        {
+            "state_code": "EDO",
+            "name": "Ikpoba Okha",
+            "country_code": "NG",
+            "slug": "ikpoba-okha"
+        },
+        {
+            "state_code": "EDO",
+            "name": "Orhionmwon",
+            "country_code": "NG",
+            "slug": "orhionmwon"
+        },
+        {
+            "state_code": "EDO",
+            "name": "Oredo",
+            "country_code": "NG",
+            "slug": "oredo"
+        },
+        {
+            "state_code": "EDO",
+            "name": "Ovia North-East",
+            "country_code": "NG",
+            "slug": "ovia-north-east"
+        },
+        {
+            "state_code": "EDO",
+            "name": "Ovia South-West",
+            "country_code": "NG",
+            "slug": "ovia-south-west"
+        },
+        {
+            "state_code": "EDO",
+            "name": "Owan East",
+            "country_code": "NG",
+            "slug": "owan-east"
+        },
+        {
+            "state_code": "EDO",
+            "name": "Owan West",
+            "country_code": "NG",
+            "slug": "owan-west"
+        },
+        {
+            "state_code": "EDO",
+            "name": "Uhunmwonde",
+            "country_code": "NG",
+            "slug": "uhunmwonde"
+        },
+        {
+            "state_code": "CRI",
+            "name": "Abi",
+            "country_code": "NG",
+            "slug": "abi"
+        },
+        {
+            "state_code": "CRI",
+            "name": "Akamkpa",
+            "country_code": "NG",
+            "slug": "akamkpa"
+        },
+        {
+            "state_code": "CRI",
+            "name": "Akpabuyo",
+            "country_code": "NG",
+            "slug": "akpabuyo"
+        },
+        {
+            "state_code": "CRI",
+            "name": "Bakassi",
+            "country_code": "NG",
+            "slug": "bakassi"
+        },
+        {
+            "state_code": "CRI",
+            "name": "Bekwarra",
+            "country_code": "NG",
+            "slug": "bekwarra"
+        },
+        {
+            "state_code": "CRI",
+            "name": "Biase",
+            "country_code": "NG",
+            "slug": "biase"
+        },
+        {
+            "state_code": "CRI",
+            "name": "Boki",
+            "country_code": "NG",
+            "slug": "boki"
+        },
+        {
+            "state_code": "CRI",
+            "name": "Calabar Municipal",
+            "country_code": "NG",
+            "slug": "calabar-municipal"
+        },
+        {
+            "state_code": "CRI",
+            "name": "Calabar South",
+            "country_code": "NG",
+            "slug": "calabar-south"
+        },
+        {
+            "state_code": "CRI",
+            "name": "Etung",
+            "country_code": "NG",
+            "slug": "etung"
+        },
+        {
+            "state_code": "CRI",
+            "name": "Ikom",
+            "country_code": "NG",
+            "slug": "ikom"
+        },
+        {
+            "state_code": "CRI",
+            "name": "Obanliku",
+            "country_code": "NG",
+            "slug": "obanliku"
+        },
+        {
+            "state_code": "CRI",
+            "name": "Obubra",
+            "country_code": "NG",
+            "slug": "obubra"
+        },
+        {
+            "state_code": "CRI",
+            "name": "Obudu",
+            "country_code": "NG",
+            "slug": "obudu"
+        },
+        {
+            "state_code": "CRI",
+            "name": "Odukpani",
+            "country_code": "NG",
+            "slug": "odukpani"
+        },
+        {
+            "state_code": "CRI",
+            "name": "Ogoja",
+            "country_code": "NG",
+            "slug": "ogoja"
+        },
+        {
+            "state_code": "CRI",
+            "name": "Yakuur",
+            "country_code": "NG",
+            "slug": "yakuur"
+        },
+        {
+            "state_code": "CRI",
+            "name": "Yala",
+            "country_code": "NG",
+            "slug": "yala"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Auyo",
+            "country_code": "NG",
+            "slug": "auyo"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Babura",
+            "country_code": "NG",
+            "slug": "babura"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Biriniwa",
+            "country_code": "NG",
+            "slug": "biriniwa"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Birnin Kudu",
+            "country_code": "NG",
+            "slug": "birnin-kudu"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Buji",
+            "country_code": "NG",
+            "slug": "buji"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Dutse",
+            "country_code": "NG",
+            "slug": "dutse"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Gagarawa",
+            "country_code": "NG",
+            "slug": "gagarawa"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Garki",
+            "country_code": "NG",
+            "slug": "garki"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Gumel",
+            "country_code": "NG",
+            "slug": "gumel"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Guri",
+            "country_code": "NG",
+            "slug": "guri"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Gwaram",
+            "country_code": "NG",
+            "slug": "gwaram"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Gwiwa",
+            "country_code": "NG",
+            "slug": "gwiwa"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Hadejia",
+            "country_code": "NG",
+            "slug": "hadejia"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Jahun",
+            "country_code": "NG",
+            "slug": "jahun"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Kafin Hausa",
+            "country_code": "NG",
+            "slug": "kafin-hausa"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Kazaure",
+            "country_code": "NG",
+            "slug": "kazaure"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Kiri Kasama",
+            "country_code": "NG",
+            "slug": "kiri-kasama"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Kiyawa",
+            "country_code": "NG",
+            "slug": "kiyawa"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Kaugama",
+            "country_code": "NG",
+            "slug": "kaugama"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Maigatari",
+            "country_code": "NG",
+            "slug": "maigatari"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Malam Madori",
+            "country_code": "NG",
+            "slug": "malam-madori"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Miga",
+            "country_code": "NG",
+            "slug": "miga"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Ringim",
+            "country_code": "NG",
+            "slug": "ringim"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Roni",
+            "country_code": "NG",
+            "slug": "roni"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Sule Tankarkar",
+            "country_code": "NG",
+            "slug": "sule-tankarkar"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Taura",
+            "country_code": "NG",
+            "slug": "taura"
+        },
+        {
+            "state_code": "JIG",
+            "name": "Yankwashi",
+            "country_code": "NG",
+            "slug": "yankwashi"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Abadam",
+            "country_code": "NG",
+            "slug": "abadam"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Askira/Uba",
+            "country_code": "NG",
+            "slug": "askira-uba"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Bama",
+            "country_code": "NG",
+            "slug": "bama"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Bayo",
+            "country_code": "NG",
+            "slug": "bayo"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Biu",
+            "country_code": "NG",
+            "slug": "biu"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Chibok",
+            "country_code": "NG",
+            "slug": "chibok"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Damboa",
+            "country_code": "NG",
+            "slug": "damboa"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Dikwa",
+            "country_code": "NG",
+            "slug": "dikwa"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Gubio",
+            "country_code": "NG",
+            "slug": "gubio"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Guzamala",
+            "country_code": "NG",
+            "slug": "guzamala"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Gwoza",
+            "country_code": "NG",
+            "slug": "gwoza"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Hawul",
+            "country_code": "NG",
+            "slug": "hawul"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Jere",
+            "country_code": "NG",
+            "slug": "jere"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Kaga",
+            "country_code": "NG",
+            "slug": "kaga"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Kala/Balge",
+            "country_code": "NG",
+            "slug": "kala-balge"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Konduga",
+            "country_code": "NG",
+            "slug": "konduga"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Kukawa",
+            "country_code": "NG",
+            "slug": "kukawa"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Kwaya Kusar",
+            "country_code": "NG",
+            "slug": "kwaya-kusar"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Mafa",
+            "country_code": "NG",
+            "slug": "mafa"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Magumeri",
+            "country_code": "NG",
+            "slug": "magumeri"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Maiduguri",
+            "country_code": "NG",
+            "slug": "maiduguri"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Marte",
+            "country_code": "NG",
+            "slug": "marte"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Mobbar",
+            "country_code": "NG",
+            "slug": "mobbar"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Monguno",
+            "country_code": "NG",
+            "slug": "monguno"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Ngala",
+            "country_code": "NG",
+            "slug": "ngala"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Nganzai",
+            "country_code": "NG",
+            "slug": "nganzai"
+        },
+        {
+            "state_code": "BOR",
+            "name": "Shani",
+            "country_code": "NG",
+            "slug": "shani"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Abua/Odual",
+            "country_code": "NG",
+            "slug": "abua-odual"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Ahoada East",
+            "country_code": "NG",
+            "slug": "ahoada-east"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Ahoada West",
+            "country_code": "NG",
+            "slug": "ahoada-west"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Akuku-Toru",
+            "country_code": "NG",
+            "slug": "akuku-toru"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Andoni",
+            "country_code": "NG",
+            "slug": "andoni"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Asari-Toru",
+            "country_code": "NG",
+            "slug": "asari-toru"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Bonny",
+            "country_code": "NG",
+            "slug": "bonny"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Degema",
+            "country_code": "NG",
+            "slug": "degema"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Eleme",
+            "country_code": "NG",
+            "slug": "eleme"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Emuoha",
+            "country_code": "NG",
+            "slug": "emuoha"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Etche",
+            "country_code": "NG",
+            "slug": "etche"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Gokana",
+            "country_code": "NG",
+            "slug": "gokana"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Ikwerre",
+            "country_code": "NG",
+            "slug": "ikwerre"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Khana",
+            "country_code": "NG",
+            "slug": "khana"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Obio/Akpor",
+            "country_code": "NG",
+            "slug": "obio-akpor"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Ogba/Egbema/Ndoni",
+            "country_code": "NG",
+            "slug": "ogba-egbema-ndoni"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Ogu/Bolo",
+            "country_code": "NG",
+            "slug": "ogu-bolo"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Okrika",
+            "country_code": "NG",
+            "slug": "okrika"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Omuma",
+            "country_code": "NG",
+            "slug": "omuma"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Opobo/Nkoro",
+            "country_code": "NG",
+            "slug": "opobo-nkoro"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Oyigbo",
+            "country_code": "NG",
+            "slug": "oyigbo"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Port Harcourt",
+            "country_code": "NG",
+            "slug": "port-harcourt"
+        },
+        {
+            "state_code": "RVS",
+            "name": "Tai",
+            "country_code": "NG",
+            "slug": "tai"
+        },
+        {
+            "state_code": "PLT",
+            "name": "Bokkos",
+            "country_code": "NG",
+            "slug": "bokkos"
+        },
+        {
+            "state_code": "PLT",
+            "name": "Barkin Ladi",
+            "country_code": "NG",
+            "slug": "barkin-ladi"
+        },
+        {
+            "state_code": "PLT",
+            "name": "Bassa",
+            "country_code": "NG",
+            "slug": "bassa"
+        },
+        {
+            "state_code": "PLT",
+            "name": "Jos East",
+            "country_code": "NG",
+            "slug": "jos-east"
+        },
+        {
+            "state_code": "PLT",
+            "name": "Jos North",
+            "country_code": "NG",
+            "slug": "jos-north"
+        },
+        {
+            "state_code": "PLT",
+            "name": "Jos South",
+            "country_code": "NG",
+            "slug": "jos-south"
+        },
+        {
+            "state_code": "PLT",
+            "name": "Kanam",
+            "country_code": "NG",
+            "slug": "kanam"
+        },
+        {
+            "state_code": "PLT",
+            "name": "Kanke",
+            "country_code": "NG",
+            "slug": "kanke"
+        },
+        {
+            "state_code": "PLT",
+            "name": "Langtang South",
+            "country_code": "NG",
+            "slug": "langtang-south"
+        },
+        {
+            "state_code": "PLT",
+            "name": "Langtang North",
+            "country_code": "NG",
+            "slug": "langtang-north"
+        },
+        {
+            "state_code": "PLT",
+            "name": "Mangu",
+            "country_code": "NG",
+            "slug": "mangu"
+        },
+        {
+            "state_code": "PLT",
+            "name": "Mikang",
+            "country_code": "NG",
+            "slug": "mikang"
+        },
+        {
+            "state_code": "PLT",
+            "name": "Pankshin",
+            "country_code": "NG",
+            "slug": "pankshin"
+        },
+        {
+            "state_code": "PLT",
+            "name": "Qua''an Pan",
+            "country_code": "NG",
+            "slug": "qua-an-pan"
+        },
+        {
+            "state_code": "PLT",
+            "name": "Riyom",
+            "country_code": "NG",
+            "slug": "riyom"
+        },
+        {
+            "state_code": "PLT",
+            "name": "Shendam",
+            "country_code": "NG",
+            "slug": "shendam"
+        },
+        {
+            "state_code": "PLT",
+            "name": "Wase",
+            "country_code": "NG",
+            "slug": "wase"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Binji",
+            "country_code": "NG",
+            "slug": "binji"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Bodinga",
+            "country_code": "NG",
+            "slug": "bodinga"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Dange Shuni",
+            "country_code": "NG",
+            "slug": "dange-shuni"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Gada",
+            "country_code": "NG",
+            "slug": "gada"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Goronyo",
+            "country_code": "NG",
+            "slug": "goronyo"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Gudu",
+            "country_code": "NG",
+            "slug": "gudu"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Gwadabawa",
+            "country_code": "NG",
+            "slug": "gwadabawa"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Illela",
+            "country_code": "NG",
+            "slug": "illela"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Isa",
+            "country_code": "NG",
+            "slug": "isa"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Kebbe",
+            "country_code": "NG",
+            "slug": "kebbe"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Kware",
+            "country_code": "NG",
+            "slug": "kware"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Rabah",
+            "country_code": "NG",
+            "slug": "rabah"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Sabon Birni",
+            "country_code": "NG",
+            "slug": "sabon-birni"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Shagari",
+            "country_code": "NG",
+            "slug": "shagari"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Silame",
+            "country_code": "NG",
+            "slug": "silame"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Sokoto North",
+            "country_code": "NG",
+            "slug": "sokoto-north"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Sokoto South",
+            "country_code": "NG",
+            "slug": "sokoto-south"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Tambuwal",
+            "country_code": "NG",
+            "slug": "tambuwal"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Tangaza",
+            "country_code": "NG",
+            "slug": "tangaza"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Tureta",
+            "country_code": "NG",
+            "slug": "tureta"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Wamako",
+            "country_code": "NG",
+            "slug": "wamako"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Wurno",
+            "country_code": "NG",
+            "slug": "wurno"
+        },
+        {
+            "state_code": "SOK",
+            "name": "Yabo",
+            "country_code": "NG",
+            "slug": "yabo"
+        },
+        {
+            "state_code": "ENU",
+            "name": "Aninri",
+            "country_code": "NG",
+            "slug": "aninri"
+        },
+        {
+            "state_code": "ENU",
+            "name": "Awgu",
+            "country_code": "NG",
+            "slug": "awgu"
+        },
+        {
+            "state_code": "ENU",
+            "name": "Enugu East",
+            "country_code": "NG",
+            "slug": "enugu-east"
+        },
+        {
+            "state_code": "ENU",
+            "name": "Enugu North",
+            "country_code": "NG",
+            "slug": "enugu-north"
+        },
+        {
+            "state_code": "ENU",
+            "name": "Enugu South",
+            "country_code": "NG",
+            "slug": "enugu-south"
+        },
+        {
+            "state_code": "ENU",
+            "name": "Ezeagu",
+            "country_code": "NG",
+            "slug": "ezeagu"
+        },
+        {
+            "state_code": "ENU",
+            "name": "Igbo Etiti",
+            "country_code": "NG",
+            "slug": "igbo-etiti"
+        },
+        {
+            "state_code": "ENU",
+            "name": "Igbo Eze North",
+            "country_code": "NG",
+            "slug": "igbo-eze-north"
+        },
+        {
+            "state_code": "ENU",
+            "name": "Igbo Eze South",
+            "country_code": "NG",
+            "slug": "igbo-eze-south"
+        },
+        {
+            "state_code": "ENU",
+            "name": "Isi Uzo",
+            "country_code": "NG",
+            "slug": "isi-uzo"
+        },
+        {
+            "state_code": "ENU",
+            "name": "Nkanu East",
+            "country_code": "NG",
+            "slug": "nkanu-east"
+        },
+        {
+            "state_code": "ENU",
+            "name": "Nkanu West",
+            "country_code": "NG",
+            "slug": "nkanu-west"
+        },
+        {
+            "state_code": "ENU",
+            "name": "Nsukka",
+            "country_code": "NG",
+            "slug": "nsukka"
+        },
+        {
+            "state_code": "ENU",
+            "name": "Oji River",
+            "country_code": "NG",
+            "slug": "oji-river"
+        },
+        {
+            "state_code": "ENU",
+            "name": "Udenu",
+            "country_code": "NG",
+            "slug": "udenu"
+        },
+        {
+            "state_code": "ENU",
+            "name": "Udi",
+            "country_code": "NG",
+            "slug": "udi"
+        },
+        {
+            "state_code": "ENU",
+            "name": "Uzo Uwani",
+            "country_code": "NG",
+            "slug": "uzo-uwani"
+        },
+        {
+            "state_code": "ABV",
+            "name": "Abaji",
+            "country_code": "NG",
+            "slug": "abaji"
+        },
+        {
+            "state_code": "ABV",
+            "name": "Bwari",
+            "country_code": "NG",
+            "slug": "bwari"
+        },
+        {
+            "state_code": "ABV",
+            "name": "Gwagwalada",
+            "country_code": "NG",
+            "slug": "gwagwalada"
+        },
+        {
+            "state_code": "ABV",
+            "name": "Kuje",
+            "country_code": "NG",
+            "slug": "kuje"
+        },
+        {
+            "state_code": "ABV",
+            "name": "Kwali",
+            "country_code": "NG",
+            "slug": "kwali"
+        },
+        {
+            "state_code": "ABV",
+            "name": "Municipal Area Council",
+            "country_code": "NG",
+            "slug": "municipal-area-council"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Aboh Mbaise",
+            "country_code": "NG",
+            "slug": "aboh-mbaise"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Ahiazu Mbaise",
+            "country_code": "NG",
+            "slug": "ahiazu-mbaise"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Ehime Mbano",
+            "country_code": "NG",
+            "slug": "ehime-mbano"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Ezinihitte",
+            "country_code": "NG",
+            "slug": "ezinihitte"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Ideato North",
+            "country_code": "NG",
+            "slug": "ideato-north"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Ideato South",
+            "country_code": "NG",
+            "slug": "ideato-south"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Ihitte/Uboma",
+            "country_code": "NG",
+            "slug": "ihitte-uboma"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Ikeduru",
+            "country_code": "NG",
+            "slug": "ikeduru"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Isiala Mbano",
+            "country_code": "NG",
+            "slug": "isiala-mbano"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Isu",
+            "country_code": "NG",
+            "slug": "isu"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Mbaitoli",
+            "country_code": "NG",
+            "slug": "mbaitoli"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Ngor Okpala",
+            "country_code": "NG",
+            "slug": "ngor-okpala"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Njaba",
+            "country_code": "NG",
+            "slug": "njaba"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Nkwerre",
+            "country_code": "NG",
+            "slug": "nkwerre"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Nwangele",
+            "country_code": "NG",
+            "slug": "nwangele"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Obowo",
+            "country_code": "NG",
+            "slug": "obowo"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Oguta",
+            "country_code": "NG",
+            "slug": "oguta"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Ohaji/Egbema",
+            "country_code": "NG",
+            "slug": "ohaji-egbema"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Okigwe",
+            "country_code": "NG",
+            "slug": "okigwe"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Orlu",
+            "country_code": "NG",
+            "slug": "orlu"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Orsu",
+            "country_code": "NG",
+            "slug": "orsu"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Oru East",
+            "country_code": "NG",
+            "slug": "oru-east"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Oru West",
+            "country_code": "NG",
+            "slug": "oru-west"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Owerri Municipal",
+            "country_code": "NG",
+            "slug": "owerri-municipal"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Owerri North",
+            "country_code": "NG",
+            "slug": "owerri-north"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Owerri West",
+            "country_code": "NG",
+            "slug": "owerri-west"
+        },
+        {
+            "state_code": "IMO",
+            "name": "Unuimo",
+            "country_code": "NG",
+            "slug": "unuimo"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Alimosho Akowonjo",
+            "country_code": "NG",
+            "slug": "alimosho-akowonjo"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Agege Sango",
+            "country_code": "NG",
+            "slug": "agege-sango"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Ajeromi Ifelodun Ajegunle",
+            "country_code": "NG",
+            "slug": "ajeromi-ifelodun-ajegunle"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Apapa",
+            "country_code": "NG",
+            "slug": "apapa"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Amuwo Odofin",
+            "country_code": "NG",
+            "slug": "amuwo-odofin"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Badagry",
+            "country_code": "NG",
+            "slug": "badagry"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Ita-Maru Epe",
+            "country_code": "NG",
+            "slug": "ita-maru-epe"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Igbo-Ifon, Eti Osa West",
+            "country_code": "NG",
+            "slug": "igbo-ifon-eti-osa-west"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Lekki",
+            "country_code": "NG",
+            "slug": "lekki"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Ibeju-Lekki",
+            "country_code": "NG",
+            "slug": "ibeju-lekki"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Ifako Ijaiye",
+            "country_code": "NG",
+            "slug": "ifako-ijaiye"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Ikeja",
+            "country_code": "NG",
+            "slug": "ikeja"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Ikorodu",
+            "country_code": "NG",
+            "slug": "ikorodu"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Kosofe Ojota",
+            "country_code": "NG",
+            "slug": "kosofe-ojota"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Lagos Mainland",
+            "country_code": "NG",
+            "slug": "lagos-mainland"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Lagos Island",
+            "country_code": "NG",
+            "slug": "lagos-island"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Mushin",
+            "country_code": "NG",
+            "slug": "mushin"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Ojo",
+            "country_code": "NG",
+            "slug": "ojo"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Oshodi Isolo",
+            "country_code": "NG",
+            "slug": "oshodi-isolo"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Shomolu",
+            "country_code": "NG",
+            "slug": "shomolu"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Surulere",
+            "country_code": "NG",
+            "slug": "surulere"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Abule Egba",
+            "country_code": "NG",
+            "slug": "abule-egba"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Alapere, Ketu",
+            "country_code": "NG",
+            "slug": "alapere-ketu"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Badiya, Apapa Iganmu",
+            "country_code": "NG",
+            "slug": "badiya-apapa-iganmu"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Ayobo, Ipaja",
+            "country_code": "NG",
+            "slug": "ayobo-ipaja"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Badagry West Kankon",
+            "country_code": "NG",
+            "slug": "badagry-west-kankon"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Pedro Bariga",
+            "country_code": "NG",
+            "slug": "pedro-bariga"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Coker Aguda",
+            "country_code": "NG",
+            "slug": "coker-aguda"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Isheri-Olofin, Egbe Idimu",
+            "country_code": "NG",
+            "slug": "isheri-olofin-egbe-idimu"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Eredo, Epe/Ijebu",
+            "country_code": "NG",
+            "slug": "eredo-epe-ijebu"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Oyonka, Iba",
+            "country_code": "NG",
+            "slug": "oyonka-iba"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Eti-Osa East, Ajah",
+            "country_code": "NG",
+            "slug": "eti-osa-east-ajah"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Ifelodun, Amukoko",
+            "country_code": "NG",
+            "slug": "ifelodun-amukoko"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Igbogbo Baiyeku",
+            "country_code": "NG",
+            "slug": "igbogbo-baiyeku"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Ijede, Maidan",
+            "country_code": "NG",
+            "slug": "ijede-maidan"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Odogunyan, Ikorodu North",
+            "country_code": "NG",
+            "slug": "odogunyan-ikorodu-north"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Owutu, Ikorodu West",
+            "country_code": "NG",
+            "slug": "owutu-ikorodu-west"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Ikosi Ejinrin, Agbowa",
+            "country_code": "NG",
+            "slug": "ikosi-ejinrin-agbowa"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Ikosi Isheri",
+            "country_code": "NG",
+            "slug": "ikosi-isheri"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Igando, Ikotun",
+            "country_code": "NG",
+            "slug": "igando-ikotun"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Ikoyi Obalende",
+            "country_code": "NG",
+            "slug": "ikoyi-obalende"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Imota Ebute-Ajebo",
+            "country_code": "NG",
+            "slug": "imota-ebute-ajebo"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Victoria Island",
+            "country_code": "NG",
+            "slug": "victoria-island"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Isolo",
+            "country_code": "NG",
+            "slug": "isolo"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Ikate Itire",
+            "country_code": "NG",
+            "slug": "ikate-itire"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Kakawa, Lagos Island East",
+            "country_code": "NG",
+            "slug": "kakawa-lagos-island-east"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Mosan Okunola",
+            "country_code": "NG",
+            "slug": "mosan-okunola"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Odi-Olowo, Ilupeju",
+            "country_code": "NG",
+            "slug": "odi-olowo-ilupeju"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Oke-Ira, Ojodu",
+            "country_code": "NG",
+            "slug": "oke-ira-ojodu"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Ojokoro, Ijaye",
+            "country_code": "NG",
+            "slug": "ojokoro-ijaye"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Olorunda, Iworo",
+            "country_code": "NG",
+            "slug": "olorunda-iworo"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Onigbongbo, Opebi",
+            "country_code": "NG",
+            "slug": "onigbongbo-opebi"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Oriade Ijegun-Ibasa",
+            "country_code": "NG",
+            "slug": "oriade-ijegun-ibasa"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Abekoko, Orile Agege",
+            "country_code": "NG",
+            "slug": "abekoko-orile-agege"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Oto Awori, Ijaniki",
+            "country_code": "NG",
+            "slug": "oto-awori-ijaniki"
+        },
+        {
+            "state_code": "LOS",
+            "name": "Adekunle, Yaba",
+            "country_code": "NG",
+            "slug": "adekunle-yaba"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Adavi",
+            "country_code": "NG",
+            "slug": "adavi"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Ajaokuta",
+            "country_code": "NG",
+            "slug": "ajaokuta"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Ankpa",
+            "country_code": "NG",
+            "slug": "ankpa"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Bassa, Kogi State",
+            "country_code": "NG",
+            "slug": "bassa-kogi-state"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Dekina",
+            "country_code": "NG",
+            "slug": "dekina"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Ibaji",
+            "country_code": "NG",
+            "slug": "ibaji"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Idah",
+            "country_code": "NG",
+            "slug": "idah"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Igalamela Odolu",
+            "country_code": "NG",
+            "slug": "igalamela-odolu"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Ijumu",
+            "country_code": "NG",
+            "slug": "ijumu"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Kabba/Bunu",
+            "country_code": "NG",
+            "slug": "kabba-bunu"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Kogi",
+            "country_code": "NG",
+            "slug": "kogi"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Lokoja",
+            "country_code": "NG",
+            "slug": "lokoja"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Mopa Muro",
+            "country_code": "NG",
+            "slug": "mopa-muro"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Ofu",
+            "country_code": "NG",
+            "slug": "ofu"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Ogori/Magongo",
+            "country_code": "NG",
+            "slug": "ogori-magongo"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Okehi",
+            "country_code": "NG",
+            "slug": "okehi"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Okene",
+            "country_code": "NG",
+            "slug": "okene"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Olamaboro",
+            "country_code": "NG",
+            "slug": "olamaboro"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Omala",
+            "country_code": "NG",
+            "slug": "omala"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Yagba East",
+            "country_code": "NG",
+            "slug": "yagba-east"
+        },
+        {
+            "state_code": "KGI",
+            "name": "Yagba West",
+            "country_code": "NG",
+            "slug": "yagba-west"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Aleiro",
+            "country_code": "NG",
+            "slug": "aleiro"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Arewa Dandi",
+            "country_code": "NG",
+            "slug": "arewa-dandi"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Argungu",
+            "country_code": "NG",
+            "slug": "argungu"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Augie",
+            "country_code": "NG",
+            "slug": "augie"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Bagudo",
+            "country_code": "NG",
+            "slug": "bagudo"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Birnin Kebbi",
+            "country_code": "NG",
+            "slug": "birnin-kebbi"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Bunza",
+            "country_code": "NG",
+            "slug": "bunza"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Dandi",
+            "country_code": "NG",
+            "slug": "dandi"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Fakai",
+            "country_code": "NG",
+            "slug": "fakai"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Gwandu",
+            "country_code": "NG",
+            "slug": "gwandu"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Jega",
+            "country_code": "NG",
+            "slug": "jega"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Kalgo",
+            "country_code": "NG",
+            "slug": "kalgo"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Koko/Besse",
+            "country_code": "NG",
+            "slug": "koko-besse"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Maiyama",
+            "country_code": "NG",
+            "slug": "maiyama"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Ngaski",
+            "country_code": "NG",
+            "slug": "ngaski"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Sakaba",
+            "country_code": "NG",
+            "slug": "sakaba"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Shanga",
+            "country_code": "NG",
+            "slug": "shanga"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Suru",
+            "country_code": "NG",
+            "slug": "suru"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Wasagu/Danko",
+            "country_code": "NG",
+            "slug": "wasagu-danko"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Yauri",
+            "country_code": "NG",
+            "slug": "yauri"
+        },
+        {
+            "state_code": "KEB",
+            "name": "Zuru",
+            "country_code": "NG",
+            "slug": "zuru"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Bakori",
+            "country_code": "NG",
+            "slug": "bakori"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Batagarawa",
+            "country_code": "NG",
+            "slug": "batagarawa"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Batsari",
+            "country_code": "NG",
+            "slug": "batsari"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Baure",
+            "country_code": "NG",
+            "slug": "baure"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Bindawa",
+            "country_code": "NG",
+            "slug": "bindawa"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Charanchi",
+            "country_code": "NG",
+            "slug": "charanchi"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Dandume",
+            "country_code": "NG",
+            "slug": "dandume"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Danja",
+            "country_code": "NG",
+            "slug": "danja"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Dan Musa",
+            "country_code": "NG",
+            "slug": "dan-musa"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Daura",
+            "country_code": "NG",
+            "slug": "daura"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Dutsi",
+            "country_code": "NG",
+            "slug": "dutsi"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Dutsin Ma",
+            "country_code": "NG",
+            "slug": "dutsin-ma"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Faskari",
+            "country_code": "NG",
+            "slug": "faskari"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Funtua",
+            "country_code": "NG",
+            "slug": "funtua"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Ingawa",
+            "country_code": "NG",
+            "slug": "ingawa"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Jibia",
+            "country_code": "NG",
+            "slug": "jibia"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Kafur",
+            "country_code": "NG",
+            "slug": "kafur"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Kaita",
+            "country_code": "NG",
+            "slug": "kaita"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Kankara",
+            "country_code": "NG",
+            "slug": "kankara"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Kankia",
+            "country_code": "NG",
+            "slug": "kankia"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Katsina",
+            "country_code": "NG",
+            "slug": "katsina"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Kurfi",
+            "country_code": "NG",
+            "slug": "kurfi"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Kusada",
+            "country_code": "NG",
+            "slug": "kusada"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Mai''Adua",
+            "country_code": "NG",
+            "slug": "mai-adua"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Malumfashi",
+            "country_code": "NG",
+            "slug": "malumfashi"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Mani",
+            "country_code": "NG",
+            "slug": "mani"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Mashi",
+            "country_code": "NG",
+            "slug": "mashi"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Matazu",
+            "country_code": "NG",
+            "slug": "matazu"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Musawa",
+            "country_code": "NG",
+            "slug": "musawa"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Rimi",
+            "country_code": "NG",
+            "slug": "rimi"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Sabuwa",
+            "country_code": "NG",
+            "slug": "sabuwa"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Safana",
+            "country_code": "NG",
+            "slug": "safana"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Sandamu",
+            "country_code": "NG",
+            "slug": "sandamu"
+        },
+        {
+            "state_code": "KAT",
+            "name": "Zango",
+            "country_code": "NG",
+            "slug": "zango"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Aguata",
+            "country_code": "NG",
+            "slug": "aguata"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Anambra East",
+            "country_code": "NG",
+            "slug": "anambra-east"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Anambra West",
+            "country_code": "NG",
+            "slug": "anambra-west"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Anaocha",
+            "country_code": "NG",
+            "slug": "anaocha"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Awka North",
+            "country_code": "NG",
+            "slug": "awka-north"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Awka South",
+            "country_code": "NG",
+            "slug": "awka-south"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Ayamelum",
+            "country_code": "NG",
+            "slug": "ayamelum"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Dunukofia",
+            "country_code": "NG",
+            "slug": "dunukofia"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Ekwusigo",
+            "country_code": "NG",
+            "slug": "ekwusigo"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Idemili North",
+            "country_code": "NG",
+            "slug": "idemili-north"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Idemili South",
+            "country_code": "NG",
+            "slug": "idemili-south"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Ihiala",
+            "country_code": "NG",
+            "slug": "ihiala"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Njikoka",
+            "country_code": "NG",
+            "slug": "njikoka"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Nnewi North",
+            "country_code": "NG",
+            "slug": "nnewi-north"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Nnewi South",
+            "country_code": "NG",
+            "slug": "nnewi-south"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Ogbaru",
+            "country_code": "NG",
+            "slug": "ogbaru"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Onitsha North",
+            "country_code": "NG",
+            "slug": "onitsha-north"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Onitsha South",
+            "country_code": "NG",
+            "slug": "onitsha-south"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Orumba North",
+            "country_code": "NG",
+            "slug": "orumba-north"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Orumba South",
+            "country_code": "NG",
+            "slug": "orumba-south"
+        },
+        {
+            "state_code": "ABR",
+            "name": "Oyi",
+            "country_code": "NG",
+            "slug": "oyi"
+        },
+        {
+            "state_code": "KWA",
+            "name": "Asa",
+            "country_code": "NG",
+            "slug": "asa"
+        },
+        {
+            "state_code": "KWA",
+            "name": "Baruten",
+            "country_code": "NG",
+            "slug": "baruten"
+        },
+        {
+            "state_code": "KWA",
+            "name": "Edu",
+            "country_code": "NG",
+            "slug": "edu"
+        },
+        {
+            "state_code": "KWA",
+            "name": "Ekiti, Kwara State",
+            "country_code": "NG",
+            "slug": "ekiti-kwara-state"
+        },
+        {
+            "state_code": "KWA",
+            "name": "Ifelodun, Kwara State",
+            "country_code": "NG",
+            "slug": "ifelodun-kwara-state"
+        },
+        {
+            "state_code": "KWA",
+            "name": "Ilorin East",
+            "country_code": "NG",
+            "slug": "ilorin-east"
+        },
+        {
+            "state_code": "KWA",
+            "name": "Ilorin South",
+            "country_code": "NG",
+            "slug": "ilorin-south"
+        },
+        {
+            "state_code": "KWA",
+            "name": "Ilorin West",
+            "country_code": "NG",
+            "slug": "ilorin-west"
+        },
+        {
+            "state_code": "KWA",
+            "name": "Irepodun, Kwara State",
+            "country_code": "NG",
+            "slug": "irepodun-kwara-state"
+        },
+        {
+            "state_code": "KWA",
+            "name": "Isin",
+            "country_code": "NG",
+            "slug": "isin"
+        },
+        {
+            "state_code": "KWA",
+            "name": "Kaiama",
+            "country_code": "NG",
+            "slug": "kaiama"
+        },
+        {
+            "state_code": "KWA",
+            "name": "Moro",
+            "country_code": "NG",
+            "slug": "moro"
+        },
+        {
+            "state_code": "KWA",
+            "name": "Offa",
+            "country_code": "NG",
+            "slug": "offa"
+        },
+        {
+            "state_code": "KWA",
+            "name": "Oke Ero",
+            "country_code": "NG",
+            "slug": "oke-ero"
+        },
+        {
+            "state_code": "KWA",
+            "name": "Oyun",
+            "country_code": "NG",
+            "slug": "oyun"
+        },
+        {
+            "state_code": "KWA",
+            "name": "Pategi",
+            "country_code": "NG",
+            "slug": "pategi"
+        },
+        {
+            "state_code": "ABI",
+            "name": "Aba North",
+            "country_code": "NG",
+            "slug": "aba-north"
+        },
+        {
+            "state_code": "ABI",
+            "name": "Aba South",
+            "country_code": "NG",
+            "slug": "aba-south"
+        },
+        {
+            "state_code": "ABI",
+            "name": "Arochukwu",
+            "country_code": "NG",
+            "slug": "arochukwu"
+        },
+        {
+            "state_code": "ABI",
+            "name": "Bende",
+            "country_code": "NG",
+            "slug": "bende"
+        },
+        {
+            "state_code": "ABI",
+            "name": "Ikwuano",
+            "country_code": "NG",
+            "slug": "ikwuano"
+        },
+        {
+            "state_code": "ABI",
+            "name": "Isiala Ngwa North",
+            "country_code": "NG",
+            "slug": "isiala-ngwa-north"
+        },
+        {
+            "state_code": "ABI",
+            "name": "Isiala Ngwa South",
+            "country_code": "NG",
+            "slug": "isiala-ngwa-south"
+        },
+        {
+            "state_code": "ABI",
+            "name": "Isuikwuato",
+            "country_code": "NG",
+            "slug": "isuikwuato"
+        },
+        {
+            "state_code": "ABI",
+            "name": "Obi Ngwa",
+            "country_code": "NG",
+            "slug": "obi-ngwa"
+        },
+        {
+            "state_code": "ABI",
+            "name": "Ohafia",
+            "country_code": "NG",
+            "slug": "ohafia"
+        },
+        {
+            "state_code": "ABI",
+            "name": "Osisioma",
+            "country_code": "NG",
+            "slug": "osisioma"
+        },
+        {
+            "state_code": "ABI",
+            "name": "Ugwunagbo",
+            "country_code": "NG",
+            "slug": "ugwunagbo"
+        },
+        {
+            "state_code": "ABI",
+            "name": "Ukwa East",
+            "country_code": "NG",
+            "slug": "ukwa-east"
+        },
+        {
+            "state_code": "ABI",
+            "name": "Ukwa West",
+            "country_code": "NG",
+            "slug": "ukwa-west"
+        },
+        {
+            "state_code": "ABI",
+            "name": "Umuahia North",
+            "country_code": "NG",
+            "slug": "umuahia-north"
+        },
+        {
+            "state_code": "ABI",
+            "name": "Umuahia South",
+            "country_code": "NG",
+            "slug": "umuahia-south"
+        },
+        {
+            "state_code": "ABI",
+            "name": "Umu Nneochi",
+            "country_code": "NG",
+            "slug": "umu-nneochi"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Demsa",
+            "country_code": "NG",
+            "slug": "demsa"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Fufure",
+            "country_code": "NG",
+            "slug": "fufure"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Ganye",
+            "country_code": "NG",
+            "slug": "ganye"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Gayuk",
+            "country_code": "NG",
+            "slug": "gayuk"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Gombi",
+            "country_code": "NG",
+            "slug": "gombi"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Grie",
+            "country_code": "NG",
+            "slug": "grie"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Hong",
+            "country_code": "NG",
+            "slug": "hong"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Jada",
+            "country_code": "NG",
+            "slug": "jada"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Larmurde",
+            "country_code": "NG",
+            "slug": "larmurde"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Madagali",
+            "country_code": "NG",
+            "slug": "madagali"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Maiha",
+            "country_code": "NG",
+            "slug": "maiha"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Mayo Belwa",
+            "country_code": "NG",
+            "slug": "mayo-belwa"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Michika",
+            "country_code": "NG",
+            "slug": "michika"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Mubi North",
+            "country_code": "NG",
+            "slug": "mubi-north"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Mubi South",
+            "country_code": "NG",
+            "slug": "mubi-south"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Numan",
+            "country_code": "NG",
+            "slug": "numan"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Shelleng",
+            "country_code": "NG",
+            "slug": "shelleng"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Song",
+            "country_code": "NG",
+            "slug": "song"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Toungo",
+            "country_code": "NG",
+            "slug": "toungo"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Yola North",
+            "country_code": "NG",
+            "slug": "yola-north"
+        },
+        {
+            "state_code": "ADA",
+            "name": "Yola South",
+            "country_code": "NG",
+            "slug": "yola-south"
+        },
+        {
+            "state_code": "BAY",
+            "name": "Brass",
+            "country_code": "NG",
+            "slug": "brass"
+        },
+        {
+            "state_code": "BAY",
+            "name": "Ekeremor",
+            "country_code": "NG",
+            "slug": "ekeremor"
+        },
+        {
+            "state_code": "BAY",
+            "name": "Kolokuma/Opokuma",
+            "country_code": "NG",
+            "slug": "kolokuma-opokuma"
+        },
+        {
+            "state_code": "BAY",
+            "name": "Nembe",
+            "country_code": "NG",
+            "slug": "nembe"
+        },
+        {
+            "state_code": "BAY",
+            "name": "Ogbia",
+            "country_code": "NG",
+            "slug": "ogbia"
+        },
+        {
+            "state_code": "BAY",
+            "name": "Sagbama",
+            "country_code": "NG",
+            "slug": "sagbama"
+        },
+        {
+            "state_code": "BAY",
+            "name": "Southern Ijaw",
+            "country_code": "NG",
+            "slug": "southern-ijaw"
+        },
+        {
+            "state_code": "BAY",
+            "name": "Yenagoa",
+            "country_code": "NG",
+            "slug": "yenagoa"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Alkaleri",
+            "country_code": "NG",
+            "slug": "alkaleri"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Bauchi",
+            "country_code": "NG",
+            "slug": "bauchi"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Bogoro",
+            "country_code": "NG",
+            "slug": "bogoro"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Damban",
+            "country_code": "NG",
+            "slug": "damban"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Darazo",
+            "country_code": "NG",
+            "slug": "darazo"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Dass",
+            "country_code": "NG",
+            "slug": "dass"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Gamawa",
+            "country_code": "NG",
+            "slug": "gamawa"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Ganjuwa",
+            "country_code": "NG",
+            "slug": "ganjuwa"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Giade",
+            "country_code": "NG",
+            "slug": "giade"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Itas/Gadau",
+            "country_code": "NG",
+            "slug": "itas-gadau"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Jama''are",
+            "country_code": "NG",
+            "slug": "jama-are"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Katagum",
+            "country_code": "NG",
+            "slug": "katagum"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Kirfi",
+            "country_code": "NG",
+            "slug": "kirfi"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Misau",
+            "country_code": "NG",
+            "slug": "misau"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Ningi",
+            "country_code": "NG",
+            "slug": "ningi"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Shira",
+            "country_code": "NG",
+            "slug": "shira"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Tafawa Balewa",
+            "country_code": "NG",
+            "slug": "tafawa-balewa"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Toro",
+            "country_code": "NG",
+            "slug": "toro"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Warji",
+            "country_code": "NG",
+            "slug": "warji"
+        },
+        {
+            "state_code": "BCH",
+            "name": "Zaki",
+            "country_code": "NG",
+            "slug": "zaki"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Abak",
+            "country_code": "NG",
+            "slug": "abak"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Eastern Obolo",
+            "country_code": "NG",
+            "slug": "eastern-obolo"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Eket",
+            "country_code": "NG",
+            "slug": "eket"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Esit Eket",
+            "country_code": "NG",
+            "slug": "esit-eket"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Essien Udim",
+            "country_code": "NG",
+            "slug": "essien-udim"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Etim Ekpo",
+            "country_code": "NG",
+            "slug": "etim-ekpo"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Etinan",
+            "country_code": "NG",
+            "slug": "etinan"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Ibeno",
+            "country_code": "NG",
+            "slug": "ibeno"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Ibesikpo Asutan",
+            "country_code": "NG",
+            "slug": "ibesikpo-asutan"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Ibiono-Ibom",
+            "country_code": "NG",
+            "slug": "ibiono-ibom"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Ika",
+            "country_code": "NG",
+            "slug": "ika"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Ikono",
+            "country_code": "NG",
+            "slug": "ikono"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Ikot Abasi",
+            "country_code": "NG",
+            "slug": "ikot-abasi"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Ikot Ekpene",
+            "country_code": "NG",
+            "slug": "ikot-ekpene"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Ini",
+            "country_code": "NG",
+            "slug": "ini"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Itu",
+            "country_code": "NG",
+            "slug": "itu"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Mbo",
+            "country_code": "NG",
+            "slug": "mbo"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Mkpat-Enin",
+            "country_code": "NG",
+            "slug": "mkpat-enin"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Nsit-Atai",
+            "country_code": "NG",
+            "slug": "nsit-atai"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Nsit-Ibom",
+            "country_code": "NG",
+            "slug": "nsit-ibom"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Nsit-Ubium",
+            "country_code": "NG",
+            "slug": "nsit-ubium"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Obot Akara",
+            "country_code": "NG",
+            "slug": "obot-akara"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Okobo",
+            "country_code": "NG",
+            "slug": "okobo"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Onna",
+            "country_code": "NG",
+            "slug": "onna"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Oron",
+            "country_code": "NG",
+            "slug": "oron"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Oruk Anam",
+            "country_code": "NG",
+            "slug": "oruk-anam"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Udung-Uko",
+            "country_code": "NG",
+            "slug": "udung-uko"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Ukanafun",
+            "country_code": "NG",
+            "slug": "ukanafun"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Uruan",
+            "country_code": "NG",
+            "slug": "uruan"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Urue-Offong/Oruko",
+            "country_code": "NG",
+            "slug": "urue-offong-oruko"
+        },
+        {
+            "state_code": "AKI",
+            "name": "Uyo",
+            "country_code": "NG",
+            "slug": "uyo"
+        },
+        {
+            "state_code": "TAR",
+            "name": "Ardo Kola",
+            "country_code": "NG",
+            "slug": "ardo-kola"
+        },
+        {
+            "state_code": "TAR",
+            "name": "Bali",
+            "country_code": "NG",
+            "slug": "bali"
+        },
+        {
+            "state_code": "TAR",
+            "name": "Donga",
+            "country_code": "NG",
+            "slug": "donga"
+        },
+        {
+            "state_code": "TAR",
+            "name": "Gashaka",
+            "country_code": "NG",
+            "slug": "gashaka"
+        },
+        {
+            "state_code": "TAR",
+            "name": "Gassol",
+            "country_code": "NG",
+            "slug": "gassol"
+        },
+        {
+            "state_code": "TAR",
+            "name": "Ibi",
+            "country_code": "NG",
+            "slug": "ibi"
+        },
+        {
+            "state_code": "TAR",
+            "name": "Jalingo",
+            "country_code": "NG",
+            "slug": "jalingo"
+        },
+        {
+            "state_code": "TAR",
+            "name": "Karim Lamido",
+            "country_code": "NG",
+            "slug": "karim-lamido"
+        },
+        {
+            "state_code": "TAR",
+            "name": "Kumi",
+            "country_code": "NG",
+            "slug": "kumi"
+        },
+        {
+            "state_code": "TAR",
+            "name": "Lau",
+            "country_code": "NG",
+            "slug": "lau"
+        },
+        {
+            "state_code": "TAR",
+            "name": "Sardauna",
+            "country_code": "NG",
+            "slug": "sardauna"
+        },
+        {
+            "state_code": "TAR",
+            "name": "Takum",
+            "country_code": "NG",
+            "slug": "takum"
+        },
+        {
+            "state_code": "TAR",
+            "name": "Ussa",
+            "country_code": "NG",
+            "slug": "ussa"
+        },
+        {
+            "state_code": "TAR",
+            "name": "Wukari",
+            "country_code": "NG",
+            "slug": "wukari"
+        },
+        {
+            "state_code": "TAR",
+            "name": "Yorro",
+            "country_code": "NG",
+            "slug": "yorro"
+        },
+        {
+            "state_code": "TAR",
+            "name": "Zing",
+            "country_code": "NG",
+            "slug": "zing"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Atakunmosa East",
+            "country_code": "NG",
+            "slug": "atakunmosa-east"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Atakunmosa West",
+            "country_code": "NG",
+            "slug": "atakunmosa-west"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Aiyedaade",
+            "country_code": "NG",
+            "slug": "aiyedaade"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Aiyedire",
+            "country_code": "NG",
+            "slug": "aiyedire"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Boluwaduro",
+            "country_code": "NG",
+            "slug": "boluwaduro"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Boripe",
+            "country_code": "NG",
+            "slug": "boripe"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Ede North",
+            "country_code": "NG",
+            "slug": "ede-north"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Ede South",
+            "country_code": "NG",
+            "slug": "ede-south"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Ife Central",
+            "country_code": "NG",
+            "slug": "ife-central"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Ife East",
+            "country_code": "NG",
+            "slug": "ife-east"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Ife North",
+            "country_code": "NG",
+            "slug": "ife-north"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Ife South",
+            "country_code": "NG",
+            "slug": "ife-south"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Egbedore",
+            "country_code": "NG",
+            "slug": "egbedore"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Ejigbo",
+            "country_code": "NG",
+            "slug": "ejigbo"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Ifedayo",
+            "country_code": "NG",
+            "slug": "ifedayo"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Ifelodun",
+            "country_code": "NG",
+            "slug": "ifelodun"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Ila",
+            "country_code": "NG",
+            "slug": "ila"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Ilesa East",
+            "country_code": "NG",
+            "slug": "ilesa-east"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Ilesa West",
+            "country_code": "NG",
+            "slug": "ilesa-west"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Irepodun",
+            "country_code": "NG",
+            "slug": "irepodun"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Irewole",
+            "country_code": "NG",
+            "slug": "irewole"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Isokan",
+            "country_code": "NG",
+            "slug": "isokan"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Iwo",
+            "country_code": "NG",
+            "slug": "iwo"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Obokun",
+            "country_code": "NG",
+            "slug": "obokun"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Odo Otin",
+            "country_code": "NG",
+            "slug": "odo-otin"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Ola Oluwa",
+            "country_code": "NG",
+            "slug": "ola-oluwa"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Olorunda",
+            "country_code": "NG",
+            "slug": "olorunda"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Oriade",
+            "country_code": "NG",
+            "slug": "oriade"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Orolu",
+            "country_code": "NG",
+            "slug": "orolu"
+        },
+        {
+            "state_code": "OSU",
+            "name": "Osogbo",
+            "country_code": "NG",
+            "slug": "osogbo"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Afijio",
+            "country_code": "NG",
+            "slug": "afijio"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Akinyele",
+            "country_code": "NG",
+            "slug": "akinyele"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Atiba",
+            "country_code": "NG",
+            "slug": "atiba"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Atisbo",
+            "country_code": "NG",
+            "slug": "atisbo"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Egbeda",
+            "country_code": "NG",
+            "slug": "egbeda"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Ibadan North",
+            "country_code": "NG",
+            "slug": "ibadan-north"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Ibadan North-East",
+            "country_code": "NG",
+            "slug": "ibadan-north-east"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Ibadan North-West",
+            "country_code": "NG",
+            "slug": "ibadan-north-west"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Ibadan South-East",
+            "country_code": "NG",
+            "slug": "ibadan-south-east"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Ibadan South-West",
+            "country_code": "NG",
+            "slug": "ibadan-south-west"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Ibarapa Central",
+            "country_code": "NG",
+            "slug": "ibarapa-central"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Ibarapa East",
+            "country_code": "NG",
+            "slug": "ibarapa-east"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Ibarapa North",
+            "country_code": "NG",
+            "slug": "ibarapa-north"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Ido",
+            "country_code": "NG",
+            "slug": "ido"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Irepo",
+            "country_code": "NG",
+            "slug": "irepo"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Iseyin",
+            "country_code": "NG",
+            "slug": "iseyin"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Itesiwaju",
+            "country_code": "NG",
+            "slug": "itesiwaju"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Iwajowa",
+            "country_code": "NG",
+            "slug": "iwajowa"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Kajola",
+            "country_code": "NG",
+            "slug": "kajola"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Lagelu",
+            "country_code": "NG",
+            "slug": "lagelu"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Ogbomosho North",
+            "country_code": "NG",
+            "slug": "ogbomosho-north"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Ogbomosho South",
+            "country_code": "NG",
+            "slug": "ogbomosho-south"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Ogo Oluwa",
+            "country_code": "NG",
+            "slug": "ogo-oluwa"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Olorunsogo",
+            "country_code": "NG",
+            "slug": "olorunsogo"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Oluyole",
+            "country_code": "NG",
+            "slug": "oluyole"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Ona Ara",
+            "country_code": "NG",
+            "slug": "ona-ara"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Orelope",
+            "country_code": "NG",
+            "slug": "orelope"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Ori Ire",
+            "country_code": "NG",
+            "slug": "ori-ire"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Oyo",
+            "country_code": "NG",
+            "slug": "oyo"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Oyo East",
+            "country_code": "NG",
+            "slug": "oyo-east"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Saki East",
+            "country_code": "NG",
+            "slug": "saki-east"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Saki West",
+            "country_code": "NG",
+            "slug": "saki-west"
+        },
+        {
+            "state_code": "OYO",
+            "name": "Surulere, Oyo State",
+            "country_code": "NG",
+            "slug": "surulere-oyo-state"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Abeokuta North",
+            "country_code": "NG",
+            "slug": "abeokuta-north"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Abeokuta South",
+            "country_code": "NG",
+            "slug": "abeokuta-south"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Ado-Odo/Ota",
+            "country_code": "NG",
+            "slug": "ado-odo-ota"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Egbado North",
+            "country_code": "NG",
+            "slug": "egbado-north"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Egbado South",
+            "country_code": "NG",
+            "slug": "egbado-south"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Ewekoro",
+            "country_code": "NG",
+            "slug": "ewekoro"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Ifo",
+            "country_code": "NG",
+            "slug": "ifo"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Ijebu East",
+            "country_code": "NG",
+            "slug": "ijebu-east"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Ijebu North",
+            "country_code": "NG",
+            "slug": "ijebu-north"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Ijebu North East",
+            "country_code": "NG",
+            "slug": "ijebu-north-east"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Ijebu Ode",
+            "country_code": "NG",
+            "slug": "ijebu-ode"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Ikenne",
+            "country_code": "NG",
+            "slug": "ikenne"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Imeko Afon",
+            "country_code": "NG",
+            "slug": "imeko-afon"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Ipokia",
+            "country_code": "NG",
+            "slug": "ipokia"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Obafemi Owode",
+            "country_code": "NG",
+            "slug": "obafemi-owode"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Odeda",
+            "country_code": "NG",
+            "slug": "odeda"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Odogbolu",
+            "country_code": "NG",
+            "slug": "odogbolu"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Ogun Waterside",
+            "country_code": "NG",
+            "slug": "ogun-waterside"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Remo North",
+            "country_code": "NG",
+            "slug": "remo-north"
+        },
+        {
+            "state_code": "OGN",
+            "name": "Shagamu",
+            "country_code": "NG",
+            "slug": "shagamu"
+        },
+        {
+            "state_code": "NAS",
+            "name": "Akwanga",
+            "country_code": "NG",
+            "slug": "akwanga"
+        },
+        {
+            "state_code": "NAS",
+            "name": "Awe",
+            "country_code": "NG",
+            "slug": "awe"
+        },
+        {
+            "state_code": "NAS",
+            "name": "Doma",
+            "country_code": "NG",
+            "slug": "doma"
+        },
+        {
+            "state_code": "NAS",
+            "name": "Karu",
+            "country_code": "NG",
+            "slug": "karu"
+        },
+        {
+            "state_code": "NAS",
+            "name": "Keana",
+            "country_code": "NG",
+            "slug": "keana"
+        },
+        {
+            "state_code": "NAS",
+            "name": "Keffi",
+            "country_code": "NG",
+            "slug": "keffi"
+        },
+        {
+            "state_code": "NAS",
+            "name": "Kokona",
+            "country_code": "NG",
+            "slug": "kokona"
+        },
+        {
+            "state_code": "NAS",
+            "name": "Lafia",
+            "country_code": "NG",
+            "slug": "lafia"
+        },
+        {
+            "state_code": "NAS",
+            "name": "Nasarawa",
+            "country_code": "NG",
+            "slug": "nasarawa"
+        },
+        {
+            "state_code": "NAS",
+            "name": "Nasarawa Egon",
+            "country_code": "NG",
+            "slug": "nasarawa-egon"
+        },
+        {
+            "state_code": "NAS",
+            "name": "Obi, Nasarawa State",
+            "country_code": "NG",
+            "slug": "obi-nasarawa-state"
+        },
+        {
+            "state_code": "NAS",
+            "name": "Toto",
+            "country_code": "NG",
+            "slug": "toto"
+        },
+        {
+            "state_code": "NAS",
+            "name": "Wamba",
+            "country_code": "NG",
+            "slug": "wamba"
+        },
+        {
+            "state_code": "OND",
+            "name": "Akoko North-East",
+            "country_code": "NG",
+            "slug": "akoko-north-east"
+        },
+        {
+            "state_code": "OND",
+            "name": "Akoko North-West",
+            "country_code": "NG",
+            "slug": "akoko-north-west"
+        },
+        {
+            "state_code": "OND",
+            "name": "Akoko South-West",
+            "country_code": "NG",
+            "slug": "akoko-south-west"
+        },
+        {
+            "state_code": "OND",
+            "name": "Akoko South-East",
+            "country_code": "NG",
+            "slug": "akoko-south-east"
+        },
+        {
+            "state_code": "OND",
+            "name": "Akure North",
+            "country_code": "NG",
+            "slug": "akure-north"
+        },
+        {
+            "state_code": "OND",
+            "name": "Akure South",
+            "country_code": "NG",
+            "slug": "akure-south"
+        },
+        {
+            "state_code": "OND",
+            "name": "Ese Odo",
+            "country_code": "NG",
+            "slug": "ese-odo"
+        },
+        {
+            "state_code": "OND",
+            "name": "Idanre",
+            "country_code": "NG",
+            "slug": "idanre"
+        },
+        {
+            "state_code": "OND",
+            "name": "Ifedore",
+            "country_code": "NG",
+            "slug": "ifedore"
+        },
+        {
+            "state_code": "OND",
+            "name": "Ilaje",
+            "country_code": "NG",
+            "slug": "ilaje"
+        },
+        {
+            "state_code": "OND",
+            "name": "Ile Oluji/Okeigbo",
+            "country_code": "NG",
+            "slug": "ile-oluji-okeigbo"
+        },
+        {
+            "state_code": "OND",
+            "name": "Irele",
+            "country_code": "NG",
+            "slug": "irele"
+        },
+        {
+            "state_code": "OND",
+            "name": "Odigbo",
+            "country_code": "NG",
+            "slug": "odigbo"
+        },
+        {
+            "state_code": "OND",
+            "name": "Okitipupa",
+            "country_code": "NG",
+            "slug": "okitipupa"
+        },
+        {
+            "state_code": "OND",
+            "name": "Ondo East",
+            "country_code": "NG",
+            "slug": "ondo-east"
+        },
+        {
+            "state_code": "OND",
+            "name": "Ondo West",
+            "country_code": "NG",
+            "slug": "ondo-west"
+        },
+        {
+            "state_code": "OND",
+            "name": "Ose",
+            "country_code": "NG",
+            "slug": "ose"
+        },
+        {
+            "state_code": "OND",
+            "name": "Owo",
+            "country_code": "NG",
+            "slug": "owo"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Agaie",
+            "country_code": "NG",
+            "slug": "agaie"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Agwara",
+            "country_code": "NG",
+            "slug": "agwara"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Bida",
+            "country_code": "NG",
+            "slug": "bida"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Borgu",
+            "country_code": "NG",
+            "slug": "borgu"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Bosso",
+            "country_code": "NG",
+            "slug": "bosso"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Chanchaga",
+            "country_code": "NG",
+            "slug": "chanchaga"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Edati",
+            "country_code": "NG",
+            "slug": "edati"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Gbako",
+            "country_code": "NG",
+            "slug": "gbako"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Gurara",
+            "country_code": "NG",
+            "slug": "gurara"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Katcha",
+            "country_code": "NG",
+            "slug": "katcha"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Kontagora",
+            "country_code": "NG",
+            "slug": "kontagora"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Lapai",
+            "country_code": "NG",
+            "slug": "lapai"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Lavun",
+            "country_code": "NG",
+            "slug": "lavun"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Magama",
+            "country_code": "NG",
+            "slug": "magama"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Mariga",
+            "country_code": "NG",
+            "slug": "mariga"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Mashegu",
+            "country_code": "NG",
+            "slug": "mashegu"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Mokwa",
+            "country_code": "NG",
+            "slug": "mokwa"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Moya",
+            "country_code": "NG",
+            "slug": "moya"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Paikoro",
+            "country_code": "NG",
+            "slug": "paikoro"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Rafi",
+            "country_code": "NG",
+            "slug": "rafi"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Rijau",
+            "country_code": "NG",
+            "slug": "rijau"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Shiroro",
+            "country_code": "NG",
+            "slug": "shiroro"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Suleja",
+            "country_code": "NG",
+            "slug": "suleja"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Tafa",
+            "country_code": "NG",
+            "slug": "tafa"
+        },
+        {
+            "state_code": "NIG",
+            "name": "Wushishi",
+            "country_code": "NG",
+            "slug": "wushishi"
+        },
+        {
+            "state_code": "GH_0",
+            "name": "Accra",
+            "country_code": "GH",
+            "slug": "accra"
+        },
+        {
+            "state_code": "GH_0",
+            "name": "Ashiaman",
+            "country_code": "GH",
+            "slug": "ashiaman"
+        },
+        {
+            "state_code": "GH_0",
+            "name": "Teshie",
+            "country_code": "GH",
+            "slug": "teshie"
+        },
+        {
+            "state_code": "GH_0",
+            "name": "Tema",
+            "country_code": "GH",
+            "slug": "tema"
+        },
+        {
+            "state_code": "GH_0",
+            "name": "Madina",
+            "country_code": "GH",
+            "slug": "madina"
+        },
+        {
+            "state_code": "GH_0",
+            "name": "Nungua",
+            "country_code": "GH",
+            "slug": "nungua"
+        },
+        {
+            "state_code": "GH_0",
+            "name": "Lashibi",
+            "country_code": "GH",
+            "slug": "lashibi"
+        },
+        {
+            "state_code": "GH_0",
+            "name": "Dome",
+            "country_code": "GH",
+            "slug": "dome"
+        },
+        {
+            "state_code": "GH_0",
+            "name": "Tema New Town",
+            "country_code": "GH",
+            "slug": "tema-new-town"
+        },
+        {
+            "state_code": "GH_0",
+            "name": "Gbawe",
+            "country_code": "GH",
+            "slug": "gbawe"
+        },
+        {
+            "state_code": "GH_0",
+            "name": "Adenta East",
+            "country_code": "GH",
+            "slug": "adenta-east"
+        },
+        {
+            "state_code": "GH_0",
+            "name": "Taifa",
+            "country_code": "GH",
+            "slug": "taifa"
+        },
+        {
+            "state_code": "GH_1",
+            "name": "Kumasi",
+            "country_code": "GH",
+            "slug": "kumasi"
+        },
+        {
+            "state_code": "GH_1",
+            "name": "Obuasi",
+            "country_code": "GH",
+            "slug": "obuasi"
+        },
+        {
+            "state_code": "GH_1",
+            "name": "Ejura",
+            "country_code": "GH",
+            "slug": "ejura"
+        },
+        {
+            "state_code": "GH_1",
+            "name": "Tafo",
+            "country_code": "GH",
+            "slug": "tafo"
+        },
+        {
+            "state_code": "GH_1",
+            "name": "Mampong",
+            "country_code": "GH",
+            "slug": "mampong"
+        },
+        {
+            "state_code": "GH_1",
+            "name": "Konongo",
+            "country_code": "GH",
+            "slug": "konongo"
+        },
+        {
+            "state_code": "GH_1",
+            "name": "Agogo",
+            "country_code": "GH",
+            "slug": "agogo"
+        },
+        {
+            "state_code": "GH_1",
+            "name": "Bekwai",
+            "country_code": "GH",
+            "slug": "bekwai"
+        },
+        {
+            "state_code": "GH_2",
+            "name": "Tamale",
+            "country_code": "GH",
+            "slug": "tamale"
+        },
+        {
+            "state_code": "GH_2",
+            "name": "Yendi",
+            "country_code": "GH",
+            "slug": "yendi"
+        },
+        {
+            "state_code": "GH_2",
+            "name": "Savelugu",
+            "country_code": "GH",
+            "slug": "savelugu"
+        },
+        {
+            "state_code": "GH_2",
+            "name": "Salaga",
+            "country_code": "GH",
+            "slug": "salaga"
+        },
+        {
+            "state_code": "GH_2",
+            "name": "Kpandae",
+            "country_code": "GH",
+            "slug": "kpandae"
+        },
+        {
+            "state_code": "GH_3",
+            "name": "Sekondi-Takoradi",
+            "country_code": "GH",
+            "slug": "sekondi-takoradi"
+        },
+        {
+            "state_code": "GH_3",
+            "name": "Prestea",
+            "country_code": "GH",
+            "slug": "prestea"
+        },
+        {
+            "state_code": "GH_3",
+            "name": "Effiakuma",
+            "country_code": "GH",
+            "slug": "effiakuma"
+        },
+        {
+            "state_code": "GH_3",
+            "name": "Tarkwa",
+            "country_code": "GH",
+            "slug": "tarkwa"
+        },
+        {
+            "state_code": "GH_3",
+            "name": "Axim",
+            "country_code": "GH",
+            "slug": "axim"
+        },
+        {
+            "state_code": "GH_3",
+            "name": "Shama",
+            "country_code": "GH",
+            "slug": "shama"
+        },
+        {
+            "state_code": "GH_3",
+            "name": "Bibiani",
+            "country_code": "GH",
+            "slug": "bibiani"
+        },
+        {
+            "state_code": "GH_3",
+            "name": "Aboso",
+            "country_code": "GH",
+            "slug": "aboso"
+        },
+        {
+            "state_code": "GH_4",
+            "name": "Sunyani",
+            "country_code": "GH",
+            "slug": "sunyani"
+        },
+        {
+            "state_code": "GH_4",
+            "name": "Techiman",
+            "country_code": "GH",
+            "slug": "techiman"
+        },
+        {
+            "state_code": "GH_4",
+            "name": "Berekum",
+            "country_code": "GH",
+            "slug": "berekum"
+        },
+        {
+            "state_code": "GH_4",
+            "name": "Kintampo",
+            "country_code": "GH",
+            "slug": "kintampo"
+        },
+        {
+            "state_code": "GH_4",
+            "name": "Wenchi",
+            "country_code": "GH",
+            "slug": "wenchi"
+        },
+        {
+            "state_code": "GH_4",
+            "name": "Bechem",
+            "country_code": "GH",
+            "slug": "bechem"
+        },
+        {
+            "state_code": "GH_4",
+            "name": "Duayaw Nkwanta",
+            "country_code": "GH",
+            "slug": "duayaw-nkwanta"
+        },
+        {
+            "state_code": "GH_4",
+            "name": "Japekrom",
+            "country_code": "GH",
+            "slug": "japekrom"
+        },
+        {
+            "state_code": "GH_4",
+            "name": "Banda Ahenkro",
+            "country_code": "GH",
+            "slug": "banda-ahenkro"
+        },
+        {
+            "state_code": "GH_5",
+            "name": "Cape Coast",
+            "country_code": "GH",
+            "slug": "cape-coast"
+        },
+        {
+            "state_code": "GH_5",
+            "name": "Oduponkpehe",
+            "country_code": "GH",
+            "slug": "oduponkpehe"
+        },
+        {
+            "state_code": "GH_5",
+            "name": "Agona Swedru",
+            "country_code": "GH",
+            "slug": "agona-swedru"
+        },
+        {
+            "state_code": "GH_5",
+            "name": "Winneba",
+            "country_code": "GH",
+            "slug": "winneba"
+        },
+        {
+            "state_code": "GH_5",
+            "name": "Elmina",
+            "country_code": "GH",
+            "slug": "elmina"
+        },
+        {
+            "state_code": "GH_5",
+            "name": "Dunkwa-on-Offin",
+            "country_code": "GH",
+            "slug": "dunkwa-on-offin"
+        },
+        {
+            "state_code": "GH_5",
+            "name": "Apam",
+            "country_code": "GH",
+            "slug": "apam"
+        },
+        {
+            "state_code": "GH_5",
+            "name": "Saltpond",
+            "country_code": "GH",
+            "slug": "saltpond"
+        },
+        {
+            "state_code": "GH_5",
+            "name": "Nyakrom",
+            "country_code": "GH",
+            "slug": "nyakrom"
+        },
+        {
+            "state_code": "GH_5",
+            "name": "Foso",
+            "country_code": "GH",
+            "slug": "foso"
+        },
+        {
+            "state_code": "GH_5",
+            "name": "Mumford",
+            "country_code": "GH",
+            "slug": "mumford"
+        },
+        {
+            "state_code": "GH_5",
+            "name": "Anomabu",
+            "country_code": "GH",
+            "slug": "anomabu"
+        },
+        {
+            "state_code": "GH_6",
+            "name": "Koforidua",
+            "country_code": "GH",
+            "slug": "koforidua"
+        },
+        {
+            "state_code": "GH_6",
+            "name": "Nkawkaw",
+            "country_code": "GH",
+            "slug": "nkawkaw"
+        },
+        {
+            "state_code": "GH_6",
+            "name": "Akim Oda",
+            "country_code": "GH",
+            "slug": "akim-oda"
+        },
+        {
+            "state_code": "GH_6",
+            "name": "Suhum",
+            "country_code": "GH",
+            "slug": "suhum"
+        },
+        {
+            "state_code": "GH_6",
+            "name": "Nsawam",
+            "country_code": "GH",
+            "slug": "nsawam"
+        },
+        {
+            "state_code": "GH_6",
+            "name": "Asamankese",
+            "country_code": "GH",
+            "slug": "asamankese"
+        },
+        {
+            "state_code": "GH_6",
+            "name": "Begoro",
+            "country_code": "GH",
+            "slug": "begoro"
+        },
+        {
+            "state_code": "GH_6",
+            "name": "Akwatia",
+            "country_code": "GH",
+            "slug": "akwatia"
+        },
+        {
+            "state_code": "GH_6",
+            "name": "Somanya",
+            "country_code": "GH",
+            "slug": "somanya"
+        },
+        {
+            "state_code": "GH_6",
+            "name": "Aburi",
+            "country_code": "GH",
+            "slug": "aburi"
+        },
+        {
+            "state_code": "GH_6",
+            "name": "Kade",
+            "country_code": "GH",
+            "slug": "kade"
+        },
+        {
+            "state_code": "GH_6",
+            "name": "Akropong",
+            "country_code": "GH",
+            "slug": "akropong"
+        },
+        {
+            "state_code": "GH_6",
+            "name": "Kibi",
+            "country_code": "GH",
+            "slug": "kibi"
+        },
+        {
+            "state_code": "GH_6",
+            "name": "Mpraeso",
+            "country_code": "GH",
+            "slug": "mpraeso"
+        },
+        {
+            "state_code": "GH_6",
+            "name": "Akim Swedru",
+            "country_code": "GH",
+            "slug": "akim-swedru"
+        },
+        {
+            "state_code": "GH_7",
+            "name": "Wa",
+            "country_code": "GH",
+            "slug": "wa"
+        },
+        {
+            "state_code": "GH_8",
+            "name": "Bawku",
+            "country_code": "GH",
+            "slug": "bawku"
+        },
+        {
+            "state_code": "GH_8",
+            "name": "Bolgatanga",
+            "country_code": "GH",
+            "slug": "bolgatanga"
+        },
+        {
+            "state_code": "GH_8",
+            "name": "Navrongo",
+            "country_code": "GH",
+            "slug": "navrongo"
+        },
+        {
+            "state_code": "GH_9",
+            "name": "Ho",
+            "country_code": "GH",
+            "slug": "ho"
+        },
+        {
+            "state_code": "GH_9",
+            "name": "Aflao",
+            "country_code": "GH",
+            "slug": "aflao"
+        },
+        {
+            "state_code": "GH_9",
+            "name": "Hohoe",
+            "country_code": "GH",
+            "slug": "hohoe"
+        },
+        {
+            "state_code": "GH_9",
+            "name": "Anloga",
+            "country_code": "GH",
+            "slug": "anloga"
+        },
+        {
+            "state_code": "GH_9",
+            "name": "Kpandu",
+            "country_code": "GH",
+            "slug": "kpandu"
+        },
+        {
+            "state_code": "GH_9",
+            "name": "Keta",
+            "country_code": "GH",
+            "slug": "keta"
+        },
+        {
+            "state_code": "GH_9",
+            "name": "Kete-Krachi",
+            "country_code": "GH",
+            "slug": "kete-krachi"
+        },
+        {
+            "state_code": "KE_0",
+            "name": "Mombasa",
+            "country_code": "KE",
+            "slug": "mombasa"
+        },
+        {
+            "state_code": "KE_0",
+            "name": "Kwale",
+            "country_code": "KE",
+            "slug": "kwale"
+        },
+        {
+            "state_code": "KE_0",
+            "name": "Kilifi",
+            "country_code": "KE",
+            "slug": "kilifi"
+        },
+        {
+            "state_code": "KE_0",
+            "name": "Tana River",
+            "country_code": "KE",
+            "slug": "tana-river"
+        },
+        {
+            "state_code": "KE_0",
+            "name": "Lamu",
+            "country_code": "KE",
+            "slug": "lamu"
+        },
+        {
+            "state_code": "KE_0",
+            "name": "Taita-Taveta",
+            "country_code": "KE",
+            "slug": "taita-taveta"
+        },
+        {
+            "state_code": "KE_1",
+            "name": "Garissa",
+            "country_code": "KE",
+            "slug": "garissa"
+        },
+        {
+            "state_code": "KE_1",
+            "name": "Wajir",
+            "country_code": "KE",
+            "slug": "wajir"
+        },
+        {
+            "state_code": "KE_1",
+            "name": "Mandera",
+            "country_code": "KE",
+            "slug": "mandera"
+        },
+        {
+            "state_code": "KE_2",
+            "name": "Marsabit",
+            "country_code": "KE",
+            "slug": "marsabit"
+        },
+        {
+            "state_code": "KE_2",
+            "name": "Isiolo",
+            "country_code": "KE",
+            "slug": "isiolo"
+        },
+        {
+            "state_code": "KE_2",
+            "name": "Meru",
+            "country_code": "KE",
+            "slug": "meru"
+        },
+        {
+            "state_code": "KE_2",
+            "name": "Tharaka-Nithi",
+            "country_code": "KE",
+            "slug": "tharaka-nithi"
+        },
+        {
+            "state_code": "KE_2",
+            "name": "Embu",
+            "country_code": "KE",
+            "slug": "embu"
+        },
+        {
+            "state_code": "KE_2",
+            "name": "Kitui",
+            "country_code": "KE",
+            "slug": "kitui"
+        },
+        {
+            "state_code": "KE_2",
+            "name": "Machakos",
+            "country_code": "KE",
+            "slug": "machakos"
+        },
+        {
+            "state_code": "KE_2",
+            "name": "Makueni",
+            "country_code": "KE",
+            "slug": "makueni"
+        },
+        {
+            "state_code": "KE_3",
+            "name": "Nyandarua",
+            "country_code": "KE",
+            "slug": "nyandarua"
+        },
+        {
+            "state_code": "KE_3",
+            "name": "Nyeri",
+            "country_code": "KE",
+            "slug": "nyeri"
+        },
+        {
+            "state_code": "KE_3",
+            "name": "Kirinyaga",
+            "country_code": "KE",
+            "slug": "kirinyaga"
+        },
+        {
+            "state_code": "KE_3",
+            "name": "Murang'a",
+            "country_code": "KE",
+            "slug": "murang-a"
+        },
+        {
+            "state_code": "KE_3",
+            "name": "Kiambu",
+            "country_code": "KE",
+            "slug": "kiambu"
+        },
+        {
+            "state_code": "KE_4",
+            "name": "Turkana",
+            "country_code": "KE",
+            "slug": "turkana"
+        },
+        {
+            "state_code": "KE_4",
+            "name": "West Pokot",
+            "country_code": "KE",
+            "slug": "west-pokot"
+        },
+        {
+            "state_code": "KE_4",
+            "name": "Samburu",
+            "country_code": "KE",
+            "slug": "samburu"
+        },
+        {
+            "state_code": "KE_4",
+            "name": "Trans Nzoia",
+            "country_code": "KE",
+            "slug": "trans-nzoia"
+        },
+        {
+            "state_code": "KE_4",
+            "name": "Uasin Gishu",
+            "country_code": "KE",
+            "slug": "uasin-gishu"
+        },
+        {
+            "state_code": "KE_4",
+            "name": "Elgeyo-Marakwet",
+            "country_code": "KE",
+            "slug": "elgeyo-marakwet"
+        },
+        {
+            "state_code": "KE_4",
+            "name": "Nandi",
+            "country_code": "KE",
+            "slug": "nandi"
+        },
+        {
+            "state_code": "KE_4",
+            "name": "Baringo",
+            "country_code": "KE",
+            "slug": "baringo"
+        },
+        {
+            "state_code": "KE_4",
+            "name": "Laikipia",
+            "country_code": "KE",
+            "slug": "laikipia"
+        },
+        {
+            "state_code": "KE_4",
+            "name": "Nakuru",
+            "country_code": "KE",
+            "slug": "nakuru"
+        },
+        {
+            "state_code": "KE_4",
+            "name": "Narok",
+            "country_code": "KE",
+            "slug": "narok"
+        },
+        {
+            "state_code": "KE_4",
+            "name": "Kajiado",
+            "country_code": "KE",
+            "slug": "kajiado"
+        },
+        {
+            "state_code": "KE_4",
+            "name": "Kericho",
+            "country_code": "KE",
+            "slug": "kericho"
+        },
+        {
+            "state_code": "KE_4",
+            "name": "Bomet",
+            "country_code": "KE",
+            "slug": "bomet"
+        },
+        {
+            "state_code": "KE_5",
+            "name": "Kakamega",
+            "country_code": "KE",
+            "slug": "kakamega"
+        },
+        {
+            "state_code": "KE_5",
+            "name": "Vihiga",
+            "country_code": "KE",
+            "slug": "vihiga"
+        },
+        {
+            "state_code": "KE_5",
+            "name": "Bungoma",
+            "country_code": "KE",
+            "slug": "bungoma"
+        },
+        {
+            "state_code": "KE_5",
+            "name": "Busia",
+            "country_code": "KE",
+            "slug": "busia"
+        },
+        {
+            "state_code": "KE_6",
+            "name": "Siaya",
+            "country_code": "KE",
+            "slug": "siaya"
+        },
+        {
+            "state_code": "KE_6",
+            "name": "Kisumu",
+            "country_code": "KE",
+            "slug": "kisumu"
+        },
+        {
+            "state_code": "KE_6",
+            "name": "Homa Bay",
+            "country_code": "KE",
+            "slug": "homa-bay"
+        },
+        {
+            "state_code": "KE_6",
+            "name": "Migori",
+            "country_code": "KE",
+            "slug": "migori"
+        },
+        {
+            "state_code": "KE_6",
+            "name": "Kisii",
+            "country_code": "KE",
+            "slug": "kisii"
+        },
+        {
+            "state_code": "KE_6",
+            "name": "Nyamira",
+            "country_code": "KE",
+            "slug": "nyamira"
+        },
+        {
+            "state_code": "KE_7",
+            "name": "Nairobi",
+            "country_code": "KE",
+            "slug": "nairobi"
+        }
+    ]
+}
