@@ -37,6 +37,6 @@ def main_context():
 @www.route('/<string:path>/')
 @www.route('/')
 def index(path=None):
-
+    country = Country.query.first()
     return render_template("public/index.html", **locals())
 
