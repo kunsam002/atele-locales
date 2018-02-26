@@ -792,7 +792,7 @@ class BaseResource(Resource):
                 output_fields.update(self.resource_fields or {})
 
                 return marshal(res, output_fields), 201
-            except Exception, e:
+            except Exception as e:
                 raise IntegrityException(e)
 
         elif obj_id is not None and resource_name is None:
@@ -807,7 +807,7 @@ class BaseResource(Resource):
                 output_fields.update(self.resource_fields or {})
 
                 return marshal(res, output_fields), 201
-            except Exception, e:
+            except Exception as e:
                 logger.error(e)
                 raise IntegrityException(e)
 
@@ -852,7 +852,7 @@ class BaseResource(Resource):
                 resp, status = self.execute_group_action(obj_ids, attrs, files)
 
                 return resp, status
-            except Exception, e:
+            except Exception as e:
 
                 raise IntegrityException(e)
 
@@ -875,7 +875,7 @@ class BaseResource(Resource):
 
                 resp = self.delete_group_action(obj_ids, attrs, files)
                 return resp, 201
-            except Exception, e:
+            except Exception as e:
                 raise IntegrityException(e)
         else:
             # the obj_id sent, as such a single delete is requested
@@ -885,5 +885,5 @@ class BaseResource(Resource):
                 resp = self.destroy(obj_id)  # Functionality for saving data implemented here
 
                 return resp, 201
-            except Exception, e:
+            except Exception as e:
                 raise IntegrityException(e)
