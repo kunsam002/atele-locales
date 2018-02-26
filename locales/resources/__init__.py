@@ -117,7 +117,6 @@ class IntegrityException(HTTPException):
         """
         param: e: parent exception to wrap and manipulate
         """
-        print e
         HTTPException.__init__(self)
         self.data = e.data if hasattr(e, "data") else {}
         self.code = e.code if hasattr(e, "code") else INTEGRITY_ERROR
@@ -669,12 +668,8 @@ class BaseResource(Resource):
 
     def save(self, attrs, files=None):
 
-        print "_____"
-        print attrs
 
         obj = self.service_class.create(**attrs)
-
-        print obj
 
         return obj
 
