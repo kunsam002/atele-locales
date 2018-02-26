@@ -1,6 +1,6 @@
 from utilities import ServiceLabs, ObjectNotFoundException
 from locales import app
-from locales.models import *
+from locales.models import Country, State,Timezone,Street,District,City,Currency
 
 db = app.db
 

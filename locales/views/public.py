@@ -10,7 +10,7 @@ from flask import Blueprint, render_template, abort, redirect, \
     flash, url_for, request, session, g, make_response, current_app
 from _socket import gethostbyname, gethostname
 from locales import db, logger, app
-from locales.models import *
+from locales.models import Country, State, City, Timezone, District, Street
 from sqlalchemy import asc, desc, or_, and_, func
 import time
 import json
@@ -37,6 +37,6 @@ def main_context():
 @www.route('/<string:path>/')
 @www.route('/')
 def index(path=None):
-
+    country = Country.query.first()
     return render_template("public/index.html", **locals())
 

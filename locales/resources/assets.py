@@ -5,7 +5,7 @@ from flask_restful import fields
 from locales import logger
 
 
-class UserResource(BaseResource):
+class CountryResource(BaseResource):
     resource_name = 'countries'
     service_class = CountryService
     resource_fields = {
@@ -16,4 +16,4 @@ class UserResource(BaseResource):
     }
 
 
-register_api(UserResource, '/countries/', '/countries/<int:id>/')
+register_api(CountryResource, '/countries/', '/countries/<int:id>/')
