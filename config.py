@@ -65,7 +65,7 @@ class LiveConfig(Config):
 
     DEBUG = True
 
-    SQLALCHEMY_DATABASE_URI = 'postgres://olvcwerhjqtzmy:1f8909ee476bd3585f59055db19c8d127405b51a177d81b557c5aec96f794da8@ec2-54-75-239-190.eu-west-1.compute.amazonaws.com:5432/dc5cr242ac5ovg'
+    SQLALCHEMY_DATABASE_URI = 'postgres://btwwaokaqviewj:4aa94f239810bb1291643b0b45c4fc64b7ae135ea336d65088632a39af5af078@ec2-54-228-181-43.eu-west-1.compute.amazonaws.com:5432/dcg8g5q4b7np52'
 
     DATABASE = SQLALCHEMY_DATABASE_URI
     SETUP_DIR = os.path.join(os.path.dirname(os.path.abspath(__name__)), 'setup')
